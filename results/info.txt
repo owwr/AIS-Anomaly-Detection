@@ -1,0 +1,1014 @@
+ship: 0
+fixed anom times: (array([], dtype=int64),)
+ship: 1
+fixed anom times: (array([], dtype=int64),)
+ship: 2
+fixed anom times: (array([], dtype=int64),)
+ship: 3
+fixed anom times: (array([], dtype=int64),)
+ship: 4
+fixed anom times: (array([20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34]),)
+ship: 5
+fixed anom times: (array([17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 32, 33, 34,
+       35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51,
+       52, 53, 54, 55, 56, 57]),)
+ship: 6
+fixed anom times: (array([], dtype=int64),)
+ship: 7
+fixed anom times: (array([33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49,
+       50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66,
+       67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81]),)
+ship: 8
+fixed anom times: (array([19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35,
+       36]),)
+ship: 9
+fixed anom times: (array([], dtype=int64),)
+ship: 10
+fixed anom times: (array([], dtype=int64),)
+ship: 11
+fixed anom times: (array([], dtype=int64),)
+ship: 12
+fixed anom times: (array([], dtype=int64),)
+ship: 13
+fixed anom times: (array([], dtype=int64),)
+ship: 14
+fixed anom times: (array([34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50,
+       51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67,
+       68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81]),)
+ship: 15
+fixed anom times: (array([28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41]),)
+ship: 16
+fixed anom times: (array([27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43,
+       44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60,
+       61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73]),)
+ship: 17
+fixed anom times: (array([], dtype=int64),)
+ship: 18
+fixed anom times: (array([], dtype=int64),)
+ship: 19
+fixed anom times: (array([24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40,
+       41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56]),)
+ship: 20
+fixed anom times: (array([], dtype=int64),)
+ship: 21
+fixed anom times: (array([], dtype=int64),)
+ship: 22
+fixed anom times: (array([], dtype=int64),)
+ship: 23
+fixed anom times: (array([], dtype=int64),)
+ship: 24
+fixed anom times: (array([], dtype=int64),)
+ship: 25
+fixed anom times: (array([], dtype=int64),)
+ship: 26
+fixed anom times: (array([], dtype=int64),)
+ship: 27
+fixed anom times: (array([], dtype=int64),)
+ship: 28
+fixed anom times: (array([], dtype=int64),)
+ship: 29
+fixed anom times: (array([], dtype=int64),)
+ship: 30
+fixed anom times: (array([18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31]),)
+ship: 31
+fixed anom times: (array([], dtype=int64),)
+ship: 32
+fixed anom times: (array([26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42,
+       43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59,
+       60, 61, 62, 63]),)
+ship: 33
+fixed anom times: (array([37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53,
+       54, 55, 56, 57, 58, 59, 60, 61]),)
+ship: 34
+fixed anom times: (array([], dtype=int64),)
+ship: 35
+fixed anom times: (array([], dtype=int64),)
+ship: 36
+fixed anom times: (array([], dtype=int64),)
+ship: 37
+fixed anom times: (array([], dtype=int64),)
+ship: 38
+fixed anom times: (array([], dtype=int64),)
+ship: 39
+fixed anom times: (array([20, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37,
+       38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54,
+       55, 56, 57]),)
+ship: 40
+fixed anom times: (array([], dtype=int64),)
+ship: 41
+fixed anom times: (array([], dtype=int64),)
+ship: 42
+fixed anom times: (array([22, 23, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39,
+       40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56,
+       57]),)
+ship: 43
+fixed anom times: (array([21, 23, 25, 27, 29, 31, 33, 35]),)
+ship: 44
+fixed anom times: (array([], dtype=int64),)
+ship: 45
+fixed anom times: (array([21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37,
+       38, 39, 40]),)
+ship: 46
+fixed anom times: (array([27, 29, 31, 33, 35, 37, 39, 41, 43, 45]),)
+ship: 47
+fixed anom times: (array([], dtype=int64),)
+ship: 48
+fixed anom times: (array([22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38,
+       39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55,
+       56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69]),)
+ship: 49
+fixed anom times: (array([], dtype=int64),)
+ship: 50
+fixed anom times: (array([], dtype=int64),)
+ship: 51
+fixed anom times: (array([], dtype=int64),)
+ship: 52
+fixed anom times: (array([22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36]),)
+ship: 53
+fixed anom times: (array([], dtype=int64),)
+ship: 54
+fixed anom times: (array([], dtype=int64),)
+ship: 55
+fixed anom times: (array([], dtype=int64),)
+ship: 56
+fixed anom times: (array([22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38,
+       39, 40, 41, 42]),)
+ship: 57
+fixed anom times: (array([], dtype=int64),)
+ship: 58
+fixed anom times: (array([36, 38, 40, 42, 44, 46, 48, 50]),)
+ship: 59
+fixed anom times: (array([], dtype=int64),)
+ship: 60
+fixed anom times: (array([19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35,
+       36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52,
+       53, 54]),)
+ship: 61
+fixed anom times: (array([], dtype=int64),)
+ship: 62
+fixed anom times: (array([], dtype=int64),)
+ship: 63
+fixed anom times: (array([19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35,
+       36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52,
+       53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65]),)
+ship: 64
+fixed anom times: (array([24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40,
+       41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57,
+       58, 59, 60, 61, 62, 63, 64]),)
+ship: 65
+fixed anom times: (array([33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49,
+       50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66,
+       67, 68, 69, 70, 71, 72, 73]),)
+ship: 66
+fixed anom times: (array([38, 40, 42, 44]),)
+ship: 67
+fixed anom times: (array([], dtype=int64),)
+ship: 68
+fixed anom times: (array([28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44,
+       45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61,
+       62, 63, 64, 65, 66, 67, 68, 69, 70]),)
+ship: 69
+fixed anom times: (array([], dtype=int64),)
+ship: 70
+fixed anom times: (array([], dtype=int64),)
+ship: 71
+fixed anom times: (array([32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48,
+       49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62]),)
+ship: 72
+fixed anom times: (array([], dtype=int64),)
+ship: 73
+fixed anom times: (array([23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39,
+       40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56,
+       57, 58, 59, 60, 61, 62, 63, 64, 65, 66]),)
+ship: 74
+fixed anom times: (array([], dtype=int64),)
+ship: 75
+fixed anom times: (array([18, 20, 22, 24, 26, 28, 30, 32, 34, 36, 38, 40]),)
+ship: 76
+fixed anom times: (array([31, 33, 35, 37, 39, 41, 43, 45, 47, 49, 51]),)
+ship: 77
+fixed anom times: (array([40, 42]),)
+ship: 78
+fixed anom times: (array([], dtype=int64),)
+ship: 79
+fixed anom times: (array([], dtype=int64),)
+ship: 80
+fixed anom times: (array([], dtype=int64),)
+ship: 81
+fixed anom times: (array([15, 17, 19, 21, 23, 25, 27, 29, 31, 33]),)
+ship: 82
+fixed anom times: (array([], dtype=int64),)
+ship: 83
+fixed anom times: (array([], dtype=int64),)
+ship: 84
+fixed anom times: (array([27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43,
+       44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60,
+       61, 62, 63, 64, 65, 66, 67, 68]),)
+ship: 85
+fixed anom times: (array([], dtype=int64),)
+ship: 86
+fixed anom times: (array([29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45,
+       46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57]),)
+ship: 87
+fixed anom times: (array([], dtype=int64),)
+ship: 88
+fixed anom times: (array([], dtype=int64),)
+ship: 89
+fixed anom times: (array([19, 20, 21, 22, 23, 24, 25, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36,
+       37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52]),)
+ship: 90
+fixed anom times: (array([14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30,
+       32, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49,
+       50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66,
+       67, 68, 69, 70, 71, 72, 73]),)
+ship: 91
+fixed anom times: (array([], dtype=int64),)
+ship: 92
+fixed anom times: (array([15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27]),)
+ship: 93
+fixed anom times: (array([22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38,
+       39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49]),)
+ship: 94
+fixed anom times: (array([20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36,
+       37, 38]),)
+ship: 95
+fixed anom times: (array([], dtype=int64),)
+ship: 96
+fixed anom times: (array([], dtype=int64),)
+ship: 97
+fixed anom times: (array([], dtype=int64),)
+ship: 98
+fixed anom times: (array([], dtype=int64),)
+ship: 99
+fixed anom times: (array([], dtype=int64),)
+ship: 100
+fixed anom times: (array([], dtype=int64),)
+ship: 101
+fixed anom times: (array([25, 27, 29, 31, 33]),)
+ship: 102
+fixed anom times: (array([], dtype=int64),)
+ship: 103
+fixed anom times: (array([], dtype=int64),)
+ship: 104
+fixed anom times: (array([27, 29, 31, 33, 35, 37, 39, 41, 43, 45, 47, 49]),)
+ship: 105
+fixed anom times: (array([25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41,
+       42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58,
+       59, 60, 61, 62, 63, 64, 65, 66, 67, 68]),)
+ship: 106
+fixed anom times: (array([34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50,
+       51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67,
+       68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83]),)
+ship: 107
+fixed anom times: (array([38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54,
+       55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71,
+       72, 73, 74, 75, 76, 77, 78, 79, 80]),)
+ship: 108
+fixed anom times: (array([33, 35, 37, 39, 41, 43, 45, 47, 49, 51, 53, 55, 57, 59, 61, 63]),)
+ship: 109
+fixed anom times: (array([15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31,
+       32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44]),)
+ship: 110
+fixed anom times: (array([12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 24, 25, 27, 28, 29, 30, 31,
+       32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48,
+       49, 50, 51, 52, 53, 54]),)
+ship: 111
+fixed anom times: (array([40, 42, 44, 46, 48, 50, 52]),)
+ship: 112
+fixed anom times: (array([], dtype=int64),)
+ship: 113
+fixed anom times: (array([], dtype=int64),)
+ship: 114
+fixed anom times: (array([], dtype=int64),)
+ship: 115
+fixed anom times: (array([19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35,
+       36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52,
+       53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69,
+       70, 71, 72, 73]),)
+ship: 116
+fixed anom times: (array([], dtype=int64),)
+ship: 117
+fixed anom times: (array([], dtype=int64),)
+ship: 118
+fixed anom times: (array([], dtype=int64),)
+ship: 119
+fixed anom times: (array([23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39,
+       40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56,
+       57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73,
+       74, 75, 76, 77, 78, 79, 80, 81, 82, 83]),)
+ship: 120
+fixed anom times: (array([29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45,
+       46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60]),)
+ship: 121
+fixed anom times: (array([], dtype=int64),)
+ship: 122
+fixed anom times: (array([ 7,  8,  9, 10, 11, 12]),)
+ship: 123
+fixed anom times: (array([], dtype=int64),)
+ship: 124
+fixed anom times: (array([], dtype=int64),)
+ship: 125
+fixed anom times: (array([36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52,
+       53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69,
+       70]),)
+ship: 126
+fixed anom times: (array([], dtype=int64),)
+ship: 127
+fixed anom times: (array([38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54,
+       55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71,
+       72, 73, 74]),)
+ship: 128
+fixed anom times: (array([], dtype=int64),)
+ship: 129
+fixed anom times: (array([30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46,
+       47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63,
+       64, 65, 66, 67, 68, 69, 70, 71]),)
+ship: 130
+fixed anom times: (array([23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39,
+       40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54]),)
+ship: 131
+fixed anom times: (array([], dtype=int64),)
+ship: 132
+fixed anom times: (array([], dtype=int64),)
+ship: 133
+fixed anom times: (array([31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47,
+       48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64,
+       65, 66, 67, 68, 69, 70, 71, 72, 73, 74]),)
+ship: 134
+fixed anom times: (array([29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45,
+       46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62,
+       63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79,
+       80]),)
+ship: 135
+fixed anom times: (array([33, 35, 37, 39, 41, 43, 45]),)
+ship: 136
+fixed anom times: (array([], dtype=int64),)
+ship: 137
+fixed anom times: (array([], dtype=int64),)
+ship: 138
+fixed anom times: (array([], dtype=int64),)
+ship: 139
+fixed anom times: (array([23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39,
+       40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56,
+       57, 58, 59, 60, 61, 62, 63, 64, 65, 66]),)
+ship: 140
+fixed anom times: (array([], dtype=int64),)
+ship: 141
+fixed anom times: (array([], dtype=int64),)
+ship: 142
+fixed anom times: (array([], dtype=int64),)
+ship: 143
+fixed anom times: (array([28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44,
+       45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61,
+       62, 63]),)
+ship: 144
+fixed anom times: (array([], dtype=int64),)
+ship: 145
+fixed anom times: (array([26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42,
+       43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59,
+       60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71]),)
+ship: 146
+fixed anom times: (array([21, 22, 23, 24, 26, 28, 30, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41,
+       42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58,
+       59, 60, 61, 62, 63, 64, 65, 66]),)
+ship: 147
+fixed anom times: (array([23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39,
+       40, 41, 42, 43, 44]),)
+ship: 148
+fixed anom times: (array([], dtype=int64),)
+ship: 149
+fixed anom times: (array([], dtype=int64),)
+ship: 150
+fixed anom times: (array([24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40,
+       41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57,
+       58, 59, 60, 61]),)
+ship: 151
+fixed anom times: (array([], dtype=int64),)
+ship: 152
+fixed anom times: (array([42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58,
+       59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75,
+       76, 77, 78, 79, 80, 81, 82]),)
+ship: 153
+fixed anom times: (array([], dtype=int64),)
+ship: 154
+fixed anom times: (array([29, 31, 33, 35, 37, 39, 41, 43, 45, 47, 49, 51]),)
+ship: 155
+fixed anom times: (array([28, 30, 32, 34]),)
+ship: 156
+fixed anom times: (array([24, 26, 28, 30, 32, 34, 36, 38]),)
+ship: 157
+fixed anom times: (array([29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45,
+       46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61]),)
+ship: 158
+fixed anom times: (array([], dtype=int64),)
+ship: 159
+fixed anom times: (array([], dtype=int64),)
+ship: 160
+fixed anom times: (array([], dtype=int64),)
+ship: 161
+fixed anom times: (array([], dtype=int64),)
+ship: 162
+fixed anom times: (array([27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38]),)
+ship: 163
+fixed anom times: (array([], dtype=int64),)
+ship: 164
+fixed anom times: (array([], dtype=int64),)
+ship: 165
+fixed anom times: (array([], dtype=int64),)
+ship: 166
+fixed anom times: (array([23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35]),)
+ship: 167
+fixed anom times: (array([], dtype=int64),)
+ship: 168
+fixed anom times: (array([], dtype=int64),)
+ship: 169
+fixed anom times: (array([ 8,  9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24,
+       25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41,
+       42, 43]),)
+ship: 170
+fixed anom times: (array([18, 20]),)
+ship: 171
+fixed anom times: (array([22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38,
+       39, 40, 41, 42]),)
+ship: 172
+fixed anom times: (array([], dtype=int64),)
+ship: 173
+fixed anom times: (array([27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43,
+       44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60]),)
+ship: 174
+fixed anom times: (array([25, 27, 29, 31, 33, 35, 37, 39, 41, 43]),)
+ship: 175
+fixed anom times: (array([], dtype=int64),)
+ship: 176
+fixed anom times: (array([], dtype=int64),)
+ship: 177
+fixed anom times: (array([38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54,
+       55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68]),)
+ship: 178
+fixed anom times: (array([], dtype=int64),)
+ship: 179
+fixed anom times: (array([33, 35, 37, 39, 41, 43, 45, 47, 49, 51, 53, 55, 57, 59, 61]),)
+ship: 180
+fixed anom times: (array([], dtype=int64),)
+ship: 181
+fixed anom times: (array([], dtype=int64),)
+ship: 182
+fixed anom times: (array([23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39,
+       40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56,
+       57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72]),)
+ship: 183
+fixed anom times: (array([40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56,
+       57]),)
+ship: 184
+fixed anom times: (array([21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37,
+       38, 39, 40]),)
+ship: 185
+fixed anom times: (array([21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37,
+       38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54,
+       55, 56, 57, 58, 59, 60, 61, 62]),)
+ship: 186
+fixed anom times: (array([30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46,
+       47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63,
+       64, 65]),)
+ship: 187
+fixed anom times: (array([], dtype=int64),)
+ship: 188
+fixed anom times: (array([24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40,
+       41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57,
+       58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68]),)
+ship: 189
+fixed anom times: (array([16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32,
+       33, 34, 35]),)
+ship: 190
+fixed anom times: (array([33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47]),)
+ship: 191
+fixed anom times: (array([28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44,
+       45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61,
+       62, 63, 64, 65, 66, 67, 68, 69, 70]),)
+ship: 192
+fixed anom times: (array([33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49,
+       50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66,
+       67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77]),)
+ship: 193
+fixed anom times: (array([20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36,
+       37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51]),)
+ship: 194
+fixed anom times: (array([28, 30, 32, 34, 36, 38, 40, 42, 44]),)
+ship: 195
+fixed anom times: (array([], dtype=int64),)
+ship: 196
+fixed anom times: (array([41, 43, 45, 47, 49, 51, 53, 55, 57]),)
+ship: 197
+fixed anom times: (array([25, 27, 29, 31, 33, 35, 37, 39, 41, 43]),)
+ship: 198
+fixed anom times: (array([26, 27, 28, 29, 30, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43,
+       44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58]),)
+ship: 199
+fixed anom times: (array([30, 32, 34, 36]),)
+ship: 0
+fixed anom times: (array([], dtype=int64),)
+ship: 1
+fixed anom times: (array([], dtype=int64),)
+ship: 2
+fixed anom times: (array([], dtype=int64),)
+ship: 3
+fixed anom times: (array([], dtype=int64),)
+ship: 4
+fixed anom times: (array([20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34]),)
+ship: 5
+fixed anom times: (array([17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 32, 33, 34,
+       35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51,
+       52, 53, 54, 55, 56, 57]),)
+ship: 6
+fixed anom times: (array([], dtype=int64),)
+ship: 7
+fixed anom times: (array([33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49,
+       50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66,
+       67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81]),)
+ship: 8
+fixed anom times: (array([19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35,
+       36]),)
+ship: 9
+fixed anom times: (array([], dtype=int64),)
+ship: 10
+fixed anom times: (array([], dtype=int64),)
+ship: 11
+fixed anom times: (array([], dtype=int64),)
+ship: 12
+fixed anom times: (array([], dtype=int64),)
+ship: 13
+fixed anom times: (array([], dtype=int64),)
+ship: 14
+fixed anom times: (array([34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50,
+       51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67,
+       68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81]),)
+ship: 15
+fixed anom times: (array([28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41]),)
+ship: 16
+fixed anom times: (array([27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43,
+       44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60,
+       61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73]),)
+ship: 17
+fixed anom times: (array([], dtype=int64),)
+ship: 18
+fixed anom times: (array([], dtype=int64),)
+ship: 19
+fixed anom times: (array([24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40,
+       41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56]),)
+ship: 20
+fixed anom times: (array([], dtype=int64),)
+ship: 21
+fixed anom times: (array([], dtype=int64),)
+ship: 22
+fixed anom times: (array([], dtype=int64),)
+ship: 23
+fixed anom times: (array([], dtype=int64),)
+ship: 24
+fixed anom times: (array([], dtype=int64),)
+ship: 25
+fixed anom times: (array([], dtype=int64),)
+ship: 26
+fixed anom times: (array([], dtype=int64),)
+ship: 27
+fixed anom times: (array([], dtype=int64),)
+ship: 28
+fixed anom times: (array([], dtype=int64),)
+ship: 29
+fixed anom times: (array([], dtype=int64),)
+ship: 30
+fixed anom times: (array([18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31]),)
+ship: 31
+fixed anom times: (array([], dtype=int64),)
+ship: 32
+fixed anom times: (array([26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42,
+       43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59,
+       60, 61, 62, 63]),)
+ship: 33
+fixed anom times: (array([37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53,
+       54, 55, 56, 57, 58, 59, 60, 61]),)
+ship: 34
+fixed anom times: (array([], dtype=int64),)
+ship: 35
+fixed anom times: (array([], dtype=int64),)
+ship: 36
+fixed anom times: (array([], dtype=int64),)
+ship: 37
+fixed anom times: (array([], dtype=int64),)
+ship: 38
+fixed anom times: (array([], dtype=int64),)
+ship: 39
+fixed anom times: (array([20, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37,
+       38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54,
+       55, 56, 57]),)
+ship: 40
+fixed anom times: (array([], dtype=int64),)
+ship: 41
+fixed anom times: (array([], dtype=int64),)
+ship: 42
+fixed anom times: (array([22, 23, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39,
+       40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56,
+       57]),)
+ship: 43
+fixed anom times: (array([21, 23, 25, 27, 29, 31, 33, 35]),)
+ship: 44
+fixed anom times: (array([], dtype=int64),)
+ship: 45
+fixed anom times: (array([21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37,
+       38, 39, 40]),)
+ship: 46
+fixed anom times: (array([27, 29, 31, 33, 35, 37, 39, 41, 43, 45]),)
+ship: 47
+fixed anom times: (array([], dtype=int64),)
+ship: 48
+fixed anom times: (array([22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38,
+       39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55,
+       56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69]),)
+ship: 49
+fixed anom times: (array([], dtype=int64),)
+ship: 50
+fixed anom times: (array([], dtype=int64),)
+ship: 51
+fixed anom times: (array([], dtype=int64),)
+ship: 52
+fixed anom times: (array([22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36]),)
+ship: 53
+fixed anom times: (array([], dtype=int64),)
+ship: 54
+fixed anom times: (array([], dtype=int64),)
+ship: 55
+fixed anom times: (array([], dtype=int64),)
+ship: 56
+fixed anom times: (array([22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38,
+       39, 40, 41, 42]),)
+ship: 57
+fixed anom times: (array([], dtype=int64),)
+ship: 58
+fixed anom times: (array([36, 38, 40, 42, 44, 46, 48, 50]),)
+ship: 59
+fixed anom times: (array([], dtype=int64),)
+ship: 60
+fixed anom times: (array([19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35,
+       36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52,
+       53, 54]),)
+ship: 61
+fixed anom times: (array([], dtype=int64),)
+ship: 62
+fixed anom times: (array([], dtype=int64),)
+ship: 63
+fixed anom times: (array([19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35,
+       36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52,
+       53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65]),)
+ship: 64
+fixed anom times: (array([24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40,
+       41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57,
+       58, 59, 60, 61, 62, 63, 64]),)
+ship: 65
+fixed anom times: (array([33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49,
+       50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66,
+       67, 68, 69, 70, 71, 72, 73]),)
+ship: 66
+fixed anom times: (array([38, 40, 42, 44]),)
+ship: 67
+fixed anom times: (array([], dtype=int64),)
+ship: 68
+fixed anom times: (array([28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44,
+       45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61,
+       62, 63, 64, 65, 66, 67, 68, 69, 70]),)
+ship: 69
+fixed anom times: (array([], dtype=int64),)
+ship: 70
+fixed anom times: (array([], dtype=int64),)
+ship: 71
+fixed anom times: (array([32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48,
+       49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62]),)
+ship: 72
+fixed anom times: (array([], dtype=int64),)
+ship: 73
+fixed anom times: (array([23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39,
+       40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56,
+       57, 58, 59, 60, 61, 62, 63, 64, 65, 66]),)
+ship: 74
+fixed anom times: (array([], dtype=int64),)
+ship: 75
+fixed anom times: (array([18, 20, 22, 24, 26, 28, 30, 32, 34, 36, 38, 40]),)
+ship: 76
+fixed anom times: (array([31, 33, 35, 37, 39, 41, 43, 45, 47, 49, 51]),)
+ship: 77
+fixed anom times: (array([40, 42]),)
+ship: 78
+fixed anom times: (array([], dtype=int64),)
+ship: 79
+fixed anom times: (array([], dtype=int64),)
+ship: 80
+fixed anom times: (array([], dtype=int64),)
+ship: 81
+fixed anom times: (array([15, 17, 19, 21, 23, 25, 27, 29, 31, 33]),)
+ship: 82
+fixed anom times: (array([], dtype=int64),)
+ship: 83
+fixed anom times: (array([], dtype=int64),)
+ship: 84
+fixed anom times: (array([27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43,
+       44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60,
+       61, 62, 63, 64, 65, 66, 67, 68]),)
+ship: 85
+fixed anom times: (array([], dtype=int64),)
+ship: 86
+fixed anom times: (array([29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45,
+       46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57]),)
+ship: 87
+fixed anom times: (array([], dtype=int64),)
+ship: 88
+fixed anom times: (array([], dtype=int64),)
+ship: 89
+fixed anom times: (array([19, 20, 21, 23, 24, 25, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37,
+       38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52]),)
+ship: 90
+fixed anom times: (array([14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30,
+       32, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49,
+       50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66,
+       67, 68, 69, 70, 71, 72, 73]),)
+ship: 91
+fixed anom times: (array([], dtype=int64),)
+ship: 92
+fixed anom times: (array([15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27]),)
+ship: 93
+fixed anom times: (array([22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38,
+       39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49]),)
+ship: 94
+fixed anom times: (array([20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36,
+       37, 38]),)
+ship: 95
+fixed anom times: (array([], dtype=int64),)
+ship: 96
+fixed anom times: (array([], dtype=int64),)
+ship: 97
+fixed anom times: (array([], dtype=int64),)
+ship: 98
+fixed anom times: (array([], dtype=int64),)
+ship: 99
+fixed anom times: (array([], dtype=int64),)
+ship: 100
+fixed anom times: (array([], dtype=int64),)
+ship: 101
+fixed anom times: (array([25, 27, 29, 31, 33]),)
+ship: 102
+fixed anom times: (array([], dtype=int64),)
+ship: 103
+fixed anom times: (array([], dtype=int64),)
+ship: 104
+fixed anom times: (array([27, 29, 31, 33, 35, 37, 39, 41, 43, 45, 47, 49]),)
+ship: 105
+fixed anom times: (array([25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41,
+       42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58,
+       59, 60, 61, 62, 63, 64, 65, 66, 67, 68]),)
+ship: 106
+fixed anom times: (array([34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50,
+       51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67,
+       68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83]),)
+ship: 107
+fixed anom times: (array([38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54,
+       55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71,
+       72, 73, 74, 75, 76, 77, 78, 79, 80]),)
+ship: 108
+fixed anom times: (array([33, 35, 37, 39, 41, 43, 45, 47, 49, 51, 53, 55, 57, 59, 61, 63]),)
+ship: 109
+fixed anom times: (array([15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31,
+       32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44]),)
+ship: 110
+fixed anom times: (array([12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 24, 25, 27, 28, 29, 30, 31,
+       32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48,
+       49, 50, 51, 52, 53, 54]),)
+ship: 111
+fixed anom times: (array([40, 42, 44, 46, 48, 50, 52]),)
+ship: 112
+fixed anom times: (array([], dtype=int64),)
+ship: 113
+fixed anom times: (array([], dtype=int64),)
+ship: 114
+fixed anom times: (array([], dtype=int64),)
+ship: 115
+fixed anom times: (array([19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35,
+       36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52,
+       53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69,
+       70, 71, 72, 73]),)
+ship: 116
+fixed anom times: (array([], dtype=int64),)
+ship: 117
+fixed anom times: (array([], dtype=int64),)
+ship: 118
+fixed anom times: (array([], dtype=int64),)
+ship: 119
+fixed anom times: (array([23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39,
+       40, 41, 42, 43, 44, 45, 46, 47, 49, 50, 51, 52, 53, 54, 55, 56, 57,
+       58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74,
+       75, 76, 77, 78, 79, 80, 81, 82, 83]),)
+ship: 120
+fixed anom times: (array([29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45,
+       46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60]),)
+ship: 121
+fixed anom times: (array([], dtype=int64),)
+ship: 122
+fixed anom times: (array([ 7,  8,  9, 10, 11, 12]),)
+ship: 123
+fixed anom times: (array([], dtype=int64),)
+ship: 124
+fixed anom times: (array([], dtype=int64),)
+ship: 125
+fixed anom times: (array([36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52,
+       53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69,
+       70]),)
+ship: 126
+fixed anom times: (array([], dtype=int64),)
+ship: 127
+fixed anom times: (array([38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54,
+       55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71,
+       72, 73, 74]),)
+ship: 128
+fixed anom times: (array([], dtype=int64),)
+ship: 129
+fixed anom times: (array([30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46,
+       47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63,
+       64, 65, 66, 67, 68, 69, 70, 71]),)
+ship: 130
+fixed anom times: (array([23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39,
+       40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54]),)
+ship: 131
+fixed anom times: (array([], dtype=int64),)
+ship: 132
+fixed anom times: (array([], dtype=int64),)
+ship: 133
+fixed anom times: (array([31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47,
+       48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64,
+       65, 66, 67, 68, 69, 70, 71, 72, 73, 74]),)
+ship: 134
+fixed anom times: (array([29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45,
+       46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62,
+       63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79,
+       80]),)
+ship: 135
+fixed anom times: (array([33, 35, 37, 39, 41, 43, 45]),)
+ship: 136
+fixed anom times: (array([], dtype=int64),)
+ship: 137
+fixed anom times: (array([], dtype=int64),)
+ship: 138
+fixed anom times: (array([], dtype=int64),)
+ship: 139
+fixed anom times: (array([23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39,
+       40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56,
+       57, 58, 59, 60, 61, 62, 63, 64, 65, 66]),)
+ship: 140
+fixed anom times: (array([], dtype=int64),)
+ship: 141
+fixed anom times: (array([], dtype=int64),)
+ship: 142
+fixed anom times: (array([], dtype=int64),)
+ship: 143
+fixed anom times: (array([28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44,
+       45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61,
+       62, 63]),)
+ship: 144
+fixed anom times: (array([], dtype=int64),)
+ship: 145
+fixed anom times: (array([26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42,
+       43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59,
+       60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71]),)
+ship: 146
+fixed anom times: (array([21, 22, 23, 24, 26, 28, 32, 33, 34, 35, 36, 38, 39, 40, 41, 42, 43,
+       44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60,
+       61, 62, 63, 64, 65, 66]),)
+ship: 147
+fixed anom times: (array([23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39,
+       40, 41, 42, 43, 44]),)
+ship: 148
+fixed anom times: (array([], dtype=int64),)
+ship: 149
+fixed anom times: (array([], dtype=int64),)
+ship: 150
+fixed anom times: (array([24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40,
+       41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57,
+       58, 59, 60, 61]),)
+ship: 151
+fixed anom times: (array([], dtype=int64),)
+ship: 152
+fixed anom times: (array([42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58,
+       59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75,
+       76, 77, 78, 79, 80, 81, 82]),)
+ship: 153
+fixed anom times: (array([], dtype=int64),)
+ship: 154
+fixed anom times: (array([29, 31, 33, 35, 37, 39, 41, 43, 45, 47, 49, 51]),)
+ship: 155
+fixed anom times: (array([28, 30, 32, 34]),)
+ship: 156
+fixed anom times: (array([24, 26, 28, 30, 32, 34, 36, 38]),)
+ship: 157
+fixed anom times: (array([29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45,
+       46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61]),)
+ship: 158
+fixed anom times: (array([], dtype=int64),)
+ship: 159
+fixed anom times: (array([], dtype=int64),)
+ship: 160
+fixed anom times: (array([], dtype=int64),)
+ship: 161
+fixed anom times: (array([], dtype=int64),)
+ship: 162
+fixed anom times: (array([27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38]),)
+ship: 163
+fixed anom times: (array([], dtype=int64),)
+ship: 164
+fixed anom times: (array([], dtype=int64),)
+ship: 165
+fixed anom times: (array([], dtype=int64),)
+ship: 166
+fixed anom times: (array([23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35]),)
+ship: 167
+fixed anom times: (array([], dtype=int64),)
+ship: 168
+fixed anom times: (array([], dtype=int64),)
+ship: 169
+fixed anom times: (array([ 8,  9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24,
+       25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41,
+       42, 43]),)
+ship: 170
+fixed anom times: (array([18, 20]),)
+ship: 171
+fixed anom times: (array([22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38,
+       39, 40, 41, 42]),)
+ship: 172
+fixed anom times: (array([], dtype=int64),)
+ship: 173
+fixed anom times: (array([27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43,
+       44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60]),)
+ship: 174
+fixed anom times: (array([25, 27, 29, 31, 33, 35, 37, 39, 41, 43]),)
+ship: 175
+fixed anom times: (array([], dtype=int64),)
+ship: 176
+fixed anom times: (array([], dtype=int64),)
+ship: 177
+fixed anom times: (array([38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54,
+       55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68]),)
+ship: 178
+fixed anom times: (array([], dtype=int64),)
+ship: 179
+fixed anom times: (array([33, 35, 37, 39, 41, 43, 45, 47, 49, 51, 53, 55, 57, 59, 61]),)
+ship: 180
+fixed anom times: (array([], dtype=int64),)
+ship: 181
+fixed anom times: (array([], dtype=int64),)
+ship: 182
+fixed anom times: (array([23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39,
+       40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56,
+       57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72]),)
+ship: 183
+fixed anom times: (array([40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56,
+       57]),)
+ship: 184
+fixed anom times: (array([21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37,
+       38, 39, 40]),)
+ship: 185
+fixed anom times: (array([21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37,
+       38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54,
+       55, 56, 57, 58, 59, 60, 61, 62]),)
+ship: 186
+fixed anom times: (array([30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46,
+       47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63,
+       64, 65]),)
+ship: 187
+fixed anom times: (array([], dtype=int64),)
+ship: 188
+fixed anom times: (array([24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40,
+       41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57,
+       58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68]),)
+ship: 189
+fixed anom times: (array([16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32,
+       33, 34, 35]),)
+ship: 190
+fixed anom times: (array([33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47]),)
+ship: 191
+fixed anom times: (array([28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44,
+       45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61,
+       62, 63, 64, 65, 66, 67, 68, 69, 70]),)
+ship: 192
+fixed anom times: (array([33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49,
+       50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66,
+       67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77]),)
+ship: 193
+fixed anom times: (array([20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36,
+       37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51]),)
+ship: 194
+fixed anom times: (array([28, 30, 32, 34, 36, 38, 40, 42, 44]),)
+ship: 195
+fixed anom times: (array([], dtype=int64),)
+ship: 196
+fixed anom times: (array([41, 43, 45, 47, 49, 51, 53, 55, 57]),)
+ship: 197
+fixed anom times: (array([25, 27, 29, 31, 33, 35, 37, 39, 41, 43]),)
+ship: 198
+fixed anom times: (array([26, 27, 28, 29, 30, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43,
+       44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58]),)
+ship: 199
+fixed anom times: (array([30, 32, 34, 36]),)

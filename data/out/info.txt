@@ -1,0 +1,1316 @@
+ship: 000
+anomalous: 0
+path length: 44
+normal route: [ 3.7 -7.4] -> [ 6.   4.3]
+
+ship: 001
+anomalous: 0
+path length: 47
+normal route: [ 3.7 -7.4] -> [ 6.   4.3]
+
+ship: 002
+anomalous: 0
+path length: 44
+normal route: [ 3.7 -7.4] -> [-7. -3.]
+
+ship: 003
+anomalous: 0
+path length: 41
+normal route: [ 3.7 -7.4] -> [-5.5  0.6]
+
+ship: 004
+anomalous: 1
+path length: 35
+normal route: [ 3.7 -7.4] -> [ 6.   4.3]
+anomalous type: 0
+anomalous target: [ 8 -2]
+deviation time: 18
+
+ship: 005
+anomalous: 1
+path length: 58
+normal route: [ 3.7 -7.4] -> [-5.5  0.6]
+anomalous type: 0
+anomalous target: [0 6]
+deviation time: 15
+
+ship: 006
+anomalous: 0
+path length: 49
+normal route: [ 3.7 -7.4] -> [-7. -3.]
+
+ship: 007
+anomalous: 1
+path length: 82
+normal route: [ 3.7 -7.4] -> [-7. -3.]
+anomalous type: 0
+anomalous target: [ 8 -2]
+deviation time: 31
+
+ship: 008
+anomalous: 1
+path length: 37
+normal route: [ 3.7 -7.4] -> [-7. -3.]
+anomalous type: 2
+anomalous target: [ 3.7 -7.4]
+deviation time: 17
+
+ship: 009
+anomalous: 0
+path length: 50
+normal route: [ 3.7 -7.4] -> [-5.5  0.6]
+
+ship: 010
+anomalous: 0
+path length: 60
+normal route: [ 3.7 -7.4] -> [ 6.   4.3]
+
+ship: 011
+anomalous: 0
+path length: 55
+normal route: [ 3.7 -7.4] -> [-5.5  0.6]
+
+ship: 012
+anomalous: 0
+path length: 46
+normal route: [ 3.7 -7.4] -> [-7. -3.]
+
+ship: 013
+anomalous: 0
+path length: 49
+normal route: [ 3.7 -7.4] -> [-5.5  0.6]
+
+ship: 014
+anomalous: 1
+path length: 82
+normal route: [ 3.7 -7.4] -> [-7. -3.]
+anomalous type: 0
+anomalous target: [ 8 -2]
+deviation time: 32
+
+ship: 015
+anomalous: 1
+path length: 42
+normal route: [ 3.7 -7.4] -> [ 6.   4.3]
+anomalous type: 0
+anomalous target: [ 8 -2]
+deviation time: 26
+
+ship: 016
+anomalous: 1
+path length: 74
+normal route: [ 3.7 -7.4] -> [-7. -3.]
+anomalous type: 0
+anomalous target: [0 6]
+deviation time: 25
+
+ship: 017
+anomalous: 0
+path length: 44
+normal route: [ 3.7 -7.4] -> [ 6.   4.3]
+
+ship: 018
+anomalous: 1
+path length: 56
+normal route: [ 3.7 -7.4] -> [ 6.   4.3]
+anomalous type: 1
+anomalous target: [ 6.   4.3]
+deviation time: 30
+stop length: 1
+
+ship: 019
+anomalous: 1
+path length: 57
+normal route: [ 3.7 -7.4] -> [-5.5  0.6]
+anomalous type: 0
+anomalous target: [0 6]
+deviation time: 22
+
+ship: 020
+anomalous: 0
+path length: 49
+normal route: [ 3.7 -7.4] -> [ 6.   4.3]
+
+ship: 021
+anomalous: 0
+path length: 48
+normal route: [ 3.7 -7.4] -> [-7. -3.]
+
+ship: 022
+anomalous: 0
+path length: 40
+normal route: [ 3.7 -7.4] -> [-7. -3.]
+
+ship: 023
+anomalous: 0
+path length: 52
+normal route: [ 3.7 -7.4] -> [-5.5  0.6]
+
+ship: 024
+anomalous: 0
+path length: 50
+normal route: [ 3.7 -7.4] -> [-5.5  0.6]
+
+ship: 025
+anomalous: 0
+path length: 46
+normal route: [ 3.7 -7.4] -> [ 6.   4.3]
+
+ship: 026
+anomalous: 0
+path length: 44
+normal route: [ 3.7 -7.4] -> [-5.5  0.6]
+
+ship: 027
+anomalous: 0
+path length: 39
+normal route: [ 3.7 -7.4] -> [-7. -3.]
+
+ship: 028
+anomalous: 0
+path length: 52
+normal route: [ 3.7 -7.4] -> [ 6.   4.3]
+
+ship: 029
+anomalous: 0
+path length: 48
+normal route: [ 3.7 -7.4] -> [ 6.   4.3]
+
+ship: 030
+anomalous: 1
+path length: 32
+normal route: [ 3.7 -7.4] -> [ 6.   4.3]
+anomalous type: 0
+anomalous target: [ 8 -2]
+deviation time: 16
+
+ship: 031
+anomalous: 0
+path length: 46
+normal route: [ 3.7 -7.4] -> [-5.5  0.6]
+
+ship: 032
+anomalous: 1
+path length: 64
+normal route: [ 3.7 -7.4] -> [-5.5  0.6]
+anomalous type: 0
+anomalous target: [0 6]
+deviation time: 24
+
+ship: 033
+anomalous: 1
+path length: 62
+normal route: [ 3.7 -7.4] -> [-5.5  0.6]
+anomalous type: 0
+anomalous target: [0 6]
+deviation time: 35
+
+ship: 034
+anomalous: 0
+path length: 53
+normal route: [ 3.7 -7.4] -> [ 6.   4.3]
+
+ship: 035
+anomalous: 0
+path length: 51
+normal route: [ 3.7 -7.4] -> [-5.5  0.6]
+
+ship: 036
+anomalous: 0
+path length: 46
+normal route: [ 3.7 -7.4] -> [ 6.   4.3]
+
+ship: 037
+anomalous: 0
+path length: 56
+normal route: [ 3.7 -7.4] -> [-7. -3.]
+
+ship: 038
+anomalous: 0
+path length: 62
+normal route: [ 3.7 -7.4] -> [-5.5  0.6]
+
+ship: 039
+anomalous: 1
+path length: 58
+normal route: [ 3.7 -7.4] -> [ 6.   4.3]
+anomalous type: 0
+anomalous target: [0 6]
+deviation time: 18
+
+ship: 040
+anomalous: 0
+path length: 47
+normal route: [ 3.7 -7.4] -> [-7. -3.]
+
+ship: 041
+anomalous: 0
+path length: 50
+normal route: [ 3.7 -7.4] -> [-5.5  0.6]
+
+ship: 042
+anomalous: 1
+path length: 58
+normal route: [ 3.7 -7.4] -> [-5.5  0.6]
+anomalous type: 0
+anomalous target: [0 6]
+deviation time: 7
+
+ship: 043
+anomalous: 1
+path length: 53
+normal route: [ 3.7 -7.4] -> [-5.5  0.6]
+anomalous type: 1
+anomalous target: [-5.5  0.6]
+deviation time: 19
+stop length: 9
+
+ship: 044
+anomalous: 0
+path length: 47
+normal route: [ 3.7 -7.4] -> [-5.5  0.6]
+
+ship: 045
+anomalous: 1
+path length: 41
+normal route: [ 3.7 -7.4] -> [ 6.   4.3]
+anomalous type: 2
+anomalous target: [ 3.7 -7.4]
+deviation time: 19
+
+ship: 046
+anomalous: 1
+path length: 54
+normal route: [ 3.7 -7.4] -> [ 6.   4.3]
+anomalous type: 1
+anomalous target: [ 6.   4.3]
+deviation time: 25
+stop length: 11
+
+ship: 047
+anomalous: 0
+path length: 44
+normal route: [ 3.7 -7.4] -> [ 6.   4.3]
+
+ship: 048
+anomalous: 1
+path length: 70
+normal route: [ 3.7 -7.4] -> [-7. -3.]
+anomalous type: 0
+anomalous target: [0 6]
+deviation time: 20
+
+ship: 049
+anomalous: 0
+path length: 47
+normal route: [ 3.7 -7.4] -> [-7. -3.]
+
+ship: 050
+anomalous: 0
+path length: 49
+normal route: [ 3.7 -7.4] -> [-5.5  0.6]
+
+ship: 051
+anomalous: 0
+path length: 54
+normal route: [ 3.7 -7.4] -> [-7. -3.]
+
+ship: 052
+anomalous: 1
+path length: 37
+normal route: [ 3.7 -7.4] -> [ 6.   4.3]
+anomalous type: 0
+anomalous target: [ 8 -2]
+deviation time: 20
+
+ship: 053
+anomalous: 0
+path length: 42
+normal route: [ 3.7 -7.4] -> [ 6.   4.3]
+
+ship: 054
+anomalous: 0
+path length: 48
+normal route: [ 3.7 -7.4] -> [-5.5  0.6]
+
+ship: 055
+anomalous: 0
+path length: 45
+normal route: [ 3.7 -7.4] -> [-7. -3.]
+
+ship: 056
+anomalous: 1
+path length: 43
+normal route: [ 3.7 -7.4] -> [-5.5  0.6]
+anomalous type: 2
+anomalous target: [ 3.7 -7.4]
+deviation time: 20
+
+ship: 057
+anomalous: 0
+path length: 43
+normal route: [ 3.7 -7.4] -> [-7. -3.]
+
+ship: 058
+anomalous: 1
+path length: 53
+normal route: [ 3.7 -7.4] -> [-7. -3.]
+anomalous type: 1
+anomalous target: [-7. -3.]
+deviation time: 34
+stop length: 9
+
+ship: 059
+anomalous: 0
+path length: 45
+normal route: [ 3.7 -7.4] -> [-5.5  0.6]
+
+ship: 060
+anomalous: 1
+path length: 55
+normal route: [ 3.7 -7.4] -> [-7. -3.]
+anomalous type: 0
+anomalous target: [ 8 -2]
+deviation time: 17
+
+ship: 061
+anomalous: 0
+path length: 52
+normal route: [ 3.7 -7.4] -> [ 6.   4.3]
+
+ship: 062
+anomalous: 0
+path length: 59
+normal route: [ 3.7 -7.4] -> [-5.5  0.6]
+
+ship: 063
+anomalous: 1
+path length: 66
+normal route: [ 3.7 -7.4] -> [-7. -3.]
+anomalous type: 0
+anomalous target: [ 8 -2]
+deviation time: 17
+
+ship: 064
+anomalous: 1
+path length: 65
+normal route: [ 3.7 -7.4] -> [-7. -3.]
+anomalous type: 0
+anomalous target: [ 8 -2]
+deviation time: 22
+
+ship: 065
+anomalous: 1
+path length: 74
+normal route: [ 3.7 -7.4] -> [-5.5  0.6]
+anomalous type: 0
+anomalous target: [0 6]
+deviation time: 31
+
+ship: 066
+anomalous: 1
+path length: 45
+normal route: [ 3.7 -7.4] -> [ 6.   4.3]
+anomalous type: 1
+anomalous target: [ 6.   4.3]
+deviation time: 36
+stop length: 9
+
+ship: 067
+anomalous: 0
+path length: 52
+normal route: [ 3.7 -7.4] -> [-5.5  0.6]
+
+ship: 068
+anomalous: 1
+path length: 71
+normal route: [ 3.7 -7.4] -> [-7. -3.]
+anomalous type: 0
+anomalous target: [ 8 -2]
+deviation time: 26
+
+ship: 069
+anomalous: 0
+path length: 59
+normal route: [ 3.7 -7.4] -> [-7. -3.]
+
+ship: 070
+anomalous: 0
+path length: 44
+normal route: [ 3.7 -7.4] -> [ 6.   4.3]
+
+ship: 071
+anomalous: 1
+path length: 63
+normal route: [ 3.7 -7.4] -> [-5.5  0.6]
+anomalous type: 2
+anomalous target: [ 3.7 -7.4]
+deviation time: 30
+
+ship: 072
+anomalous: 0
+path length: 55
+normal route: [ 3.7 -7.4] -> [ 6.   4.3]
+
+ship: 073
+anomalous: 1
+path length: 67
+normal route: [ 3.7 -7.4] -> [-7. -3.]
+anomalous type: 0
+anomalous target: [0 6]
+deviation time: 21
+
+ship: 074
+anomalous: 0
+path length: 52
+normal route: [ 3.7 -7.4] -> [-5.5  0.6]
+
+ship: 075
+anomalous: 1
+path length: 59
+normal route: [ 3.7 -7.4] -> [-7. -3.]
+anomalous type: 1
+anomalous target: [-7. -3.]
+deviation time: 16
+stop length: 13
+
+ship: 076
+anomalous: 1
+path length: 53
+normal route: [ 3.7 -7.4] -> [-5.5  0.6]
+anomalous type: 1
+anomalous target: [-5.5  0.6]
+deviation time: 29
+stop length: 12
+
+ship: 077
+anomalous: 1
+path length: 43
+normal route: [ 3.7 -7.4] -> [-7. -3.]
+anomalous type: 1
+anomalous target: [-7. -3.]
+deviation time: 38
+stop length: 13
+
+ship: 078
+anomalous: 0
+path length: 48
+normal route: [ 3.7 -7.4] -> [-5.5  0.6]
+
+ship: 079
+anomalous: 0
+path length: 63
+normal route: [ 3.7 -7.4] -> [-5.5  0.6]
+
+ship: 080
+anomalous: 0
+path length: 56
+normal route: [ 3.7 -7.4] -> [ 6.   4.3]
+
+ship: 081
+anomalous: 1
+path length: 58
+normal route: [ 3.7 -7.4] -> [-5.5  0.6]
+anomalous type: 1
+anomalous target: [-5.5  0.6]
+deviation time: 13
+stop length: 11
+
+ship: 082
+anomalous: 0
+path length: 47
+normal route: [ 3.7 -7.4] -> [-7. -3.]
+
+ship: 083
+anomalous: 0
+path length: 64
+normal route: [ 3.7 -7.4] -> [ 6.   4.3]
+
+ship: 084
+anomalous: 1
+path length: 69
+normal route: [ 3.7 -7.4] -> [-7. -3.]
+anomalous type: 0
+anomalous target: [ 8 -2]
+deviation time: 25
+
+ship: 085
+anomalous: 0
+path length: 48
+normal route: [ 3.7 -7.4] -> [-7. -3.]
+
+ship: 086
+anomalous: 1
+path length: 58
+normal route: [ 3.7 -7.4] -> [-5.5  0.6]
+anomalous type: 0
+anomalous target: [0 6]
+deviation time: 27
+
+ship: 087
+anomalous: 0
+path length: 45
+normal route: [ 3.7 -7.4] -> [ 6.   4.3]
+
+ship: 088
+anomalous: 0
+path length: 52
+normal route: [ 3.7 -7.4] -> [ 6.   4.3]
+
+ship: 089
+anomalous: 1
+path length: 53
+normal route: [ 3.7 -7.4] -> [ 6.   4.3]
+anomalous type: 0
+anomalous target: [0 6]
+deviation time: 17
+
+ship: 090
+anomalous: 1
+path length: 74
+normal route: [ 3.7 -7.4] -> [-7. -3.]
+anomalous type: 0
+anomalous target: [0 6]
+deviation time: 12
+
+ship: 091
+anomalous: 0
+path length: 70
+normal route: [ 3.7 -7.4] -> [ 6.   4.3]
+
+ship: 092
+anomalous: 1
+path length: 28
+normal route: [ 3.7 -7.4] -> [ 6.   4.3]
+anomalous type: 0
+anomalous target: [ 8 -2]
+deviation time: 13
+
+ship: 093
+anomalous: 1
+path length: 50
+normal route: [ 3.7 -7.4] -> [ 6.   4.3]
+anomalous type: 0
+anomalous target: [0 6]
+deviation time: 20
+
+ship: 094
+anomalous: 1
+path length: 39
+normal route: [ 3.7 -7.4] -> [-7. -3.]
+anomalous type: 2
+anomalous target: [ 3.7 -7.4]
+deviation time: 18
+
+ship: 095
+anomalous: 0
+path length: 42
+normal route: [ 3.7 -7.4] -> [-5.5  0.6]
+
+ship: 096
+anomalous: 0
+path length: 62
+normal route: [ 3.7 -7.4] -> [ 6.   4.3]
+
+ship: 097
+anomalous: 0
+path length: 48
+normal route: [ 3.7 -7.4] -> [-5.5  0.6]
+
+ship: 098
+anomalous: 0
+path length: 51
+normal route: [ 3.7 -7.4] -> [-5.5  0.6]
+
+ship: 099
+anomalous: 0
+path length: 51
+normal route: [ 3.7 -7.4] -> [-5.5  0.6]
+
+ship: 100
+anomalous: 0
+path length: 54
+normal route: [ 3.7 -7.4] -> [ 6.   4.3]
+
+ship: 101
+anomalous: 1
+path length: 51
+normal route: [ 3.7 -7.4] -> [-5.5  0.6]
+anomalous type: 1
+anomalous target: [-5.5  0.6]
+deviation time: 23
+stop length: 6
+
+ship: 102
+anomalous: 0
+path length: 46
+normal route: [ 3.7 -7.4] -> [-5.5  0.6]
+
+ship: 103
+anomalous: 0
+path length: 47
+normal route: [ 3.7 -7.4] -> [ 6.   4.3]
+
+ship: 104
+anomalous: 1
+path length: 56
+normal route: [ 3.7 -7.4] -> [ 6.   4.3]
+anomalous type: 1
+anomalous target: [ 6.   4.3]
+deviation time: 25
+stop length: 13
+
+ship: 105
+anomalous: 1
+path length: 69
+normal route: [ 3.7 -7.4] -> [-7. -3.]
+anomalous type: 0
+anomalous target: [0 6]
+deviation time: 23
+
+ship: 106
+anomalous: 1
+path length: 84
+normal route: [ 3.7 -7.4] -> [-7. -3.]
+anomalous type: 0
+anomalous target: [0 6]
+deviation time: 32
+
+ship: 107
+anomalous: 1
+path length: 81
+normal route: [ 3.7 -7.4] -> [-7. -3.]
+anomalous type: 0
+anomalous target: [0 6]
+deviation time: 36
+
+ship: 108
+anomalous: 1
+path length: 66
+normal route: [ 3.7 -7.4] -> [-5.5  0.6]
+anomalous type: 1
+anomalous target: [-5.5  0.6]
+deviation time: 31
+stop length: 17
+
+ship: 109
+anomalous: 1
+path length: 45
+normal route: [ 3.7 -7.4] -> [-7. -3.]
+anomalous type: 0
+anomalous target: [ 8 -2]
+deviation time: 13
+
+ship: 110
+anomalous: 1
+path length: 55
+normal route: [ 3.7 -7.4] -> [-5.5  0.6]
+anomalous type: 0
+anomalous target: [0 6]
+deviation time: 10
+
+ship: 111
+anomalous: 1
+path length: 53
+normal route: [ 3.7 -7.4] -> [-7. -3.]
+anomalous type: 1
+anomalous target: [-7. -3.]
+deviation time: 38
+stop length: 13
+
+ship: 112
+anomalous: 0
+path length: 57
+normal route: [ 3.7 -7.4] -> [-5.5  0.6]
+
+ship: 113
+anomalous: 0
+path length: 51
+normal route: [ 3.7 -7.4] -> [-5.5  0.6]
+
+ship: 114
+anomalous: 0
+path length: 40
+normal route: [ 3.7 -7.4] -> [-7. -3.]
+
+ship: 115
+anomalous: 1
+path length: 74
+normal route: [ 3.7 -7.4] -> [-7. -3.]
+anomalous type: 0
+anomalous target: [0 6]
+deviation time: 17
+
+ship: 116
+anomalous: 0
+path length: 52
+normal route: [ 3.7 -7.4] -> [-5.5  0.6]
+
+ship: 117
+anomalous: 0
+path length: 54
+normal route: [ 3.7 -7.4] -> [-7. -3.]
+
+ship: 118
+anomalous: 1
+path length: 49
+normal route: [ 3.7 -7.4] -> [-7. -3.]
+anomalous type: 1
+anomalous target: [-7. -3.]
+deviation time: 19
+stop length: 1
+
+ship: 119
+anomalous: 1
+path length: 84
+normal route: [ 3.7 -7.4] -> [-7. -3.]
+anomalous type: 0
+anomalous target: [0 6]
+deviation time: 21
+
+ship: 120
+anomalous: 1
+path length: 61
+normal route: [ 3.7 -7.4] -> [ 6.   4.3]
+anomalous type: 0
+anomalous target: [0 6]
+deviation time: 27
+
+ship: 121
+anomalous: 0
+path length: 54
+normal route: [ 3.7 -7.4] -> [-7. -3.]
+
+ship: 122
+anomalous: 1
+path length: 13
+normal route: [ 3.7 -7.4] -> [-5.5  0.6]
+anomalous type: 2
+anomalous target: [ 3.7 -7.4]
+deviation time: 5
+
+ship: 123
+anomalous: 0
+path length: 49
+normal route: [ 3.7 -7.4] -> [-5.5  0.6]
+
+ship: 124
+anomalous: 0
+path length: 51
+normal route: [ 3.7 -7.4] -> [-7. -3.]
+
+ship: 125
+anomalous: 1
+path length: 71
+normal route: [ 3.7 -7.4] -> [ 6.   4.3]
+anomalous type: 2
+anomalous target: [ 3.7 -7.4]
+deviation time: 34
+
+ship: 126
+anomalous: 0
+path length: 82
+normal route: [ 3.7 -7.4] -> [ 6.   4.3]
+
+ship: 127
+anomalous: 1
+path length: 75
+normal route: [ 3.7 -7.4] -> [-7. -3.]
+anomalous type: 2
+anomalous target: [ 3.7 -7.4]
+deviation time: 36
+
+ship: 128
+anomalous: 0
+path length: 46
+normal route: [ 3.7 -7.4] -> [-7. -3.]
+
+ship: 129
+anomalous: 1
+path length: 72
+normal route: [ 3.7 -7.4] -> [-5.5  0.6]
+anomalous type: 0
+anomalous target: [ 8 -2]
+deviation time: 28
+
+ship: 130
+anomalous: 1
+path length: 55
+normal route: [ 3.7 -7.4] -> [ 6.   4.3]
+anomalous type: 0
+anomalous target: [0 6]
+deviation time: 21
+
+ship: 131
+anomalous: 0
+path length: 61
+normal route: [ 3.7 -7.4] -> [-5.5  0.6]
+
+ship: 132
+anomalous: 0
+path length: 44
+normal route: [ 3.7 -7.4] -> [-5.5  0.6]
+
+ship: 133
+anomalous: 1
+path length: 75
+normal route: [ 3.7 -7.4] -> [-7. -3.]
+anomalous type: 0
+anomalous target: [ 8 -2]
+deviation time: 29
+
+ship: 134
+anomalous: 1
+path length: 81
+normal route: [ 3.7 -7.4] -> [-7. -3.]
+anomalous type: 0
+anomalous target: [ 8 -2]
+deviation time: 27
+
+ship: 135
+anomalous: 1
+path length: 46
+normal route: [ 3.7 -7.4] -> [-5.5  0.6]
+anomalous type: 1
+anomalous target: [-5.5  0.6]
+deviation time: 31
+stop length: 10
+
+ship: 136
+anomalous: 0
+path length: 47
+normal route: [ 3.7 -7.4] -> [-5.5  0.6]
+
+ship: 137
+anomalous: 0
+path length: 41
+normal route: [ 3.7 -7.4] -> [ 6.   4.3]
+
+ship: 138
+anomalous: 0
+path length: 57
+normal route: [ 3.7 -7.4] -> [ 6.   4.3]
+
+ship: 139
+anomalous: 1
+path length: 67
+normal route: [ 3.7 -7.4] -> [-5.5  0.6]
+anomalous type: 0
+anomalous target: [0 6]
+deviation time: 21
+
+ship: 140
+anomalous: 0
+path length: 55
+normal route: [ 3.7 -7.4] -> [ 6.   4.3]
+
+ship: 141
+anomalous: 0
+path length: 45
+normal route: [ 3.7 -7.4] -> [-7. -3.]
+
+ship: 142
+anomalous: 0
+path length: 50
+normal route: [ 3.7 -7.4] -> [ 6.   4.3]
+
+ship: 143
+anomalous: 1
+path length: 64
+normal route: [ 3.7 -7.4] -> [ 6.   4.3]
+anomalous type: 0
+anomalous target: [0 6]
+deviation time: 26
+
+ship: 144
+anomalous: 0
+path length: 41
+normal route: [ 3.7 -7.4] -> [-7. -3.]
+
+ship: 145
+anomalous: 1
+path length: 72
+normal route: [ 3.7 -7.4] -> [-7. -3.]
+anomalous type: 0
+anomalous target: [0 6]
+deviation time: 24
+
+ship: 146
+anomalous: 1
+path length: 67
+normal route: [ 3.7 -7.4] -> [ 6.   4.3]
+anomalous type: 0
+anomalous target: [0 6]
+deviation time: 19
+
+ship: 147
+anomalous: 1
+path length: 45
+normal route: [ 3.7 -7.4] -> [ 6.   4.3]
+anomalous type: 2
+anomalous target: [ 3.7 -7.4]
+deviation time: 21
+
+ship: 148
+anomalous: 0
+path length: 50
+normal route: [ 3.7 -7.4] -> [-5.5  0.6]
+
+ship: 149
+anomalous: 0
+path length: 51
+normal route: [ 3.7 -7.4] -> [ 6.   4.3]
+
+ship: 150
+anomalous: 1
+path length: 62
+normal route: [ 3.7 -7.4] -> [-7. -3.]
+anomalous type: 0
+anomalous target: [0 6]
+deviation time: 22
+
+ship: 151
+anomalous: 0
+path length: 48
+normal route: [ 3.7 -7.4] -> [ 6.   4.3]
+
+ship: 152
+anomalous: 1
+path length: 83
+normal route: [ 3.7 -7.4] -> [ 6.   4.3]
+anomalous type: 2
+anomalous target: [ 3.7 -7.4]
+deviation time: 40
+
+ship: 153
+anomalous: 0
+path length: 46
+normal route: [ 3.7 -7.4] -> [ 6.   4.3]
+
+ship: 154
+anomalous: 1
+path length: 53
+normal route: [ 3.7 -7.4] -> [-7. -3.]
+anomalous type: 1
+anomalous target: [-7. -3.]
+deviation time: 27
+stop length: 13
+
+ship: 155
+anomalous: 1
+path length: 54
+normal route: [ 3.7 -7.4] -> [-5.5  0.6]
+anomalous type: 1
+anomalous target: [-5.5  0.6]
+deviation time: 26
+stop length: 5
+
+ship: 156
+anomalous: 1
+path length: 65
+normal route: [ 3.7 -7.4] -> [ 6.   4.3]
+anomalous type: 1
+anomalous target: [ 6.   4.3]
+deviation time: 22
+stop length: 9
+
+ship: 157
+anomalous: 1
+path length: 62
+normal route: [ 3.7 -7.4] -> [-5.5  0.6]
+anomalous type: 0
+anomalous target: [0 6]
+deviation time: 27
+
+ship: 158
+anomalous: 0
+path length: 58
+normal route: [ 3.7 -7.4] -> [-5.5  0.6]
+
+ship: 159
+anomalous: 0
+path length: 52
+normal route: [ 3.7 -7.4] -> [-5.5  0.6]
+
+ship: 160
+anomalous: 0
+path length: 48
+normal route: [ 3.7 -7.4] -> [-7. -3.]
+
+ship: 161
+anomalous: 0
+path length: 51
+normal route: [ 3.7 -7.4] -> [ 6.   4.3]
+
+ship: 162
+anomalous: 1
+path length: 39
+normal route: [ 3.7 -7.4] -> [ 6.   4.3]
+anomalous type: 0
+anomalous target: [ 8 -2]
+deviation time: 25
+
+ship: 163
+anomalous: 0
+path length: 42
+normal route: [ 3.7 -7.4] -> [-5.5  0.6]
+
+ship: 164
+anomalous: 0
+path length: 54
+normal route: [ 3.7 -7.4] -> [-5.5  0.6]
+
+ship: 165
+anomalous: 0
+path length: 46
+normal route: [ 3.7 -7.4] -> [-5.5  0.6]
+
+ship: 166
+anomalous: 1
+path length: 36
+normal route: [ 3.7 -7.4] -> [ 6.   4.3]
+anomalous type: 0
+anomalous target: [ 8 -2]
+deviation time: 21
+
+ship: 167
+anomalous: 0
+path length: 54
+normal route: [ 3.7 -7.4] -> [ 6.   4.3]
+
+ship: 168
+anomalous: 0
+path length: 49
+normal route: [ 3.7 -7.4] -> [-5.5  0.6]
+
+ship: 169
+anomalous: 1
+path length: 44
+normal route: [ 3.7 -7.4] -> [-5.5  0.6]
+anomalous type: 0
+anomalous target: [ 8 -2]
+deviation time: 6
+
+ship: 170
+anomalous: 1
+path length: 53
+normal route: [ 3.7 -7.4] -> [ 6.   4.3]
+anomalous type: 1
+anomalous target: [ 6.   4.3]
+deviation time: 16
+stop length: 3
+
+ship: 171
+anomalous: 1
+path length: 43
+normal route: [ 3.7 -7.4] -> [-7. -3.]
+anomalous type: 2
+anomalous target: [ 3.7 -7.4]
+deviation time: 20
+
+ship: 172
+anomalous: 0
+path length: 61
+normal route: [ 3.7 -7.4] -> [ 6.   4.3]
+
+ship: 173
+anomalous: 1
+path length: 61
+normal route: [ 3.7 -7.4] -> [ 6.   4.3]
+anomalous type: 0
+anomalous target: [0 6]
+deviation time: 25
+
+ship: 174
+anomalous: 1
+path length: 58
+normal route: [ 3.7 -7.4] -> [-7. -3.]
+anomalous type: 1
+anomalous target: [-7. -3.]
+deviation time: 23
+stop length: 11
+
+ship: 175
+anomalous: 0
+path length: 50
+normal route: [ 3.7 -7.4] -> [-5.5  0.6]
+
+ship: 176
+anomalous: 0
+path length: 51
+normal route: [ 3.7 -7.4] -> [-7. -3.]
+
+ship: 177
+anomalous: 1
+path length: 69
+normal route: [ 3.7 -7.4] -> [-5.5  0.6]
+anomalous type: 0
+anomalous target: [0 6]
+deviation time: 36
+
+ship: 178
+anomalous: 0
+path length: 43
+normal route: [ 3.7 -7.4] -> [-7. -3.]
+
+ship: 179
+anomalous: 1
+path length: 71
+normal route: [ 3.7 -7.4] -> [-5.5  0.6]
+anomalous type: 1
+anomalous target: [-5.5  0.6]
+deviation time: 31
+stop length: 16
+
+ship: 180
+anomalous: 0
+path length: 77
+normal route: [ 3.7 -7.4] -> [-5.5  0.6]
+
+ship: 181
+anomalous: 0
+path length: 48
+normal route: [ 3.7 -7.4] -> [ 6.   4.3]
+
+ship: 182
+anomalous: 1
+path length: 73
+normal route: [ 3.7 -7.4] -> [-7. -3.]
+anomalous type: 0
+anomalous target: [0 6]
+deviation time: 21
+
+ship: 183
+anomalous: 1
+path length: 58
+normal route: [ 3.7 -7.4] -> [ 6.   4.3]
+anomalous type: 0
+anomalous target: [ 8 -2]
+deviation time: 38
+
+ship: 184
+anomalous: 1
+path length: 41
+normal route: [ 3.7 -7.4] -> [ 6.   4.3]
+anomalous type: 2
+anomalous target: [ 3.7 -7.4]
+deviation time: 19
+
+ship: 185
+anomalous: 1
+path length: 63
+normal route: [ 3.7 -7.4] -> [-5.5  0.6]
+anomalous type: 0
+anomalous target: [0 6]
+deviation time: 19
+
+ship: 186
+anomalous: 1
+path length: 66
+normal route: [ 3.7 -7.4] -> [-5.5  0.6]
+anomalous type: 0
+anomalous target: [ 8 -2]
+deviation time: 28
+
+ship: 187
+anomalous: 0
+path length: 45
+normal route: [ 3.7 -7.4] -> [-5.5  0.6]
+
+ship: 188
+anomalous: 1
+path length: 69
+normal route: [ 3.7 -7.4] -> [-7. -3.]
+anomalous type: 0
+anomalous target: [0 6]
+deviation time: 22
+
+ship: 189
+anomalous: 1
+path length: 36
+normal route: [ 3.7 -7.4] -> [ 6.   4.3]
+anomalous type: 0
+anomalous target: [ 8 -2]
+deviation time: 14
+
+ship: 190
+anomalous: 1
+path length: 48
+normal route: [ 3.7 -7.4] -> [ 6.   4.3]
+anomalous type: 0
+anomalous target: [ 8 -2]
+deviation time: 31
+
+ship: 191
+anomalous: 1
+path length: 71
+normal route: [ 3.7 -7.4] -> [-7. -3.]
+anomalous type: 0
+anomalous target: [ 8 -2]
+deviation time: 26
+
+ship: 192
+anomalous: 1
+path length: 78
+normal route: [ 3.7 -7.4] -> [-7. -3.]
+anomalous type: 0
+anomalous target: [0 6]
+deviation time: 31
+
+ship: 193
+anomalous: 1
+path length: 52
+normal route: [ 3.7 -7.4] -> [-5.5  0.6]
+anomalous type: 0
+anomalous target: [ 8 -2]
+deviation time: 18
+
+ship: 194
+anomalous: 1
+path length: 59
+normal route: [ 3.7 -7.4] -> [-5.5  0.6]
+anomalous type: 1
+anomalous target: [-5.5  0.6]
+deviation time: 26
+stop length: 10
+
+ship: 195
+anomalous: 0
+path length: 45
+normal route: [ 3.7 -7.4] -> [-7. -3.]
+
+ship: 196
+anomalous: 1
+path length: 69
+normal route: [ 3.7 -7.4] -> [-7. -3.]
+anomalous type: 1
+anomalous target: [-7. -3.]
+deviation time: 39
+stop length: 10
+
+ship: 197
+anomalous: 1
+path length: 82
+normal route: [ 3.7 -7.4] -> [ 6.   4.3]
+anomalous type: 1
+anomalous target: [ 6.   4.3]
+deviation time: 23
+stop length: 11
+
+ship: 198
+anomalous: 1
+path length: 59
+normal route: [ 3.7 -7.4] -> [ 6.   4.3]
+anomalous type: 0
+anomalous target: [0 6]
+deviation time: 24
+
+ship: 199
+anomalous: 1
+path length: 53
+normal route: [ 3.7 -7.4] -> [ 6.   4.3]
+anomalous type: 1
+anomalous target: [ 6.   4.3]
+deviation time: 28
+stop length: 5
+

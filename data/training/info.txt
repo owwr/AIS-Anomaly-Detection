@@ -1,0 +1,2500 @@
+ship: 000
+anomalous: 0
+path length: 58
+normal route: [ 3.7 -7.4] -> [ 6.   4.3]
+
+ship: 001
+anomalous: 0
+path length: 57
+normal route: [ 3.7 -7.4] -> [-5.5  0.6]
+
+ship: 002
+anomalous: 0
+path length: 46
+normal route: [ 3.7 -7.4] -> [-7. -3.]
+
+ship: 003
+anomalous: 0
+path length: 51
+normal route: [ 3.7 -7.4] -> [-5.5  0.6]
+
+ship: 004
+anomalous: 0
+path length: 62
+normal route: [ 3.7 -7.4] -> [ 6.   4.3]
+
+ship: 005
+anomalous: 0
+path length: 58
+normal route: [ 3.7 -7.4] -> [-5.5  0.6]
+
+ship: 006
+anomalous: 0
+path length: 56
+normal route: [ 3.7 -7.4] -> [ 6.   4.3]
+
+ship: 007
+anomalous: 0
+path length: 54
+normal route: [ 3.7 -7.4] -> [-7. -3.]
+
+ship: 008
+anomalous: 0
+path length: 42
+normal route: [ 3.7 -7.4] -> [ 6.   4.3]
+
+ship: 009
+anomalous: 0
+path length: 46
+normal route: [ 3.7 -7.4] -> [-7. -3.]
+
+ship: 010
+anomalous: 0
+path length: 56
+normal route: [ 3.7 -7.4] -> [ 6.   4.3]
+
+ship: 011
+anomalous: 0
+path length: 42
+normal route: [ 3.7 -7.4] -> [ 6.   4.3]
+
+ship: 012
+anomalous: 0
+path length: 36
+normal route: [ 3.7 -7.4] -> [-7. -3.]
+
+ship: 013
+anomalous: 0
+path length: 48
+normal route: [ 3.7 -7.4] -> [ 6.   4.3]
+
+ship: 014
+anomalous: 0
+path length: 58
+normal route: [ 3.7 -7.4] -> [-5.5  0.6]
+
+ship: 015
+anomalous: 0
+path length: 41
+normal route: [ 3.7 -7.4] -> [-7. -3.]
+
+ship: 016
+anomalous: 0
+path length: 49
+normal route: [ 3.7 -7.4] -> [ 6.   4.3]
+
+ship: 017
+anomalous: 0
+path length: 64
+normal route: [ 3.7 -7.4] -> [-7. -3.]
+
+ship: 018
+anomalous: 0
+path length: 42
+normal route: [ 3.7 -7.4] -> [-7. -3.]
+
+ship: 019
+anomalous: 0
+path length: 51
+normal route: [ 3.7 -7.4] -> [-7. -3.]
+
+ship: 020
+anomalous: 0
+path length: 47
+normal route: [ 3.7 -7.4] -> [-7. -3.]
+
+ship: 021
+anomalous: 0
+path length: 47
+normal route: [ 3.7 -7.4] -> [ 6.   4.3]
+
+ship: 022
+anomalous: 0
+path length: 48
+normal route: [ 3.7 -7.4] -> [-7. -3.]
+
+ship: 023
+anomalous: 0
+path length: 40
+normal route: [ 3.7 -7.4] -> [-5.5  0.6]
+
+ship: 024
+anomalous: 0
+path length: 61
+normal route: [ 3.7 -7.4] -> [-5.5  0.6]
+
+ship: 025
+anomalous: 0
+path length: 71
+normal route: [ 3.7 -7.4] -> [ 6.   4.3]
+
+ship: 026
+anomalous: 0
+path length: 54
+normal route: [ 3.7 -7.4] -> [-5.5  0.6]
+
+ship: 027
+anomalous: 0
+path length: 57
+normal route: [ 3.7 -7.4] -> [ 6.   4.3]
+
+ship: 028
+anomalous: 0
+path length: 43
+normal route: [ 3.7 -7.4] -> [-7. -3.]
+
+ship: 029
+anomalous: 0
+path length: 43
+normal route: [ 3.7 -7.4] -> [-5.5  0.6]
+
+ship: 030
+anomalous: 0
+path length: 47
+normal route: [ 3.7 -7.4] -> [-5.5  0.6]
+
+ship: 031
+anomalous: 0
+path length: 55
+normal route: [ 3.7 -7.4] -> [ 6.   4.3]
+
+ship: 032
+anomalous: 0
+path length: 45
+normal route: [ 3.7 -7.4] -> [-7. -3.]
+
+ship: 033
+anomalous: 0
+path length: 52
+normal route: [ 3.7 -7.4] -> [-5.5  0.6]
+
+ship: 034
+anomalous: 0
+path length: 51
+normal route: [ 3.7 -7.4] -> [-5.5  0.6]
+
+ship: 035
+anomalous: 0
+path length: 38
+normal route: [ 3.7 -7.4] -> [ 6.   4.3]
+
+ship: 036
+anomalous: 0
+path length: 54
+normal route: [ 3.7 -7.4] -> [ 6.   4.3]
+
+ship: 037
+anomalous: 0
+path length: 47
+normal route: [ 3.7 -7.4] -> [ 6.   4.3]
+
+ship: 038
+anomalous: 0
+path length: 54
+normal route: [ 3.7 -7.4] -> [ 6.   4.3]
+
+ship: 039
+anomalous: 0
+path length: 48
+normal route: [ 3.7 -7.4] -> [-5.5  0.6]
+
+ship: 040
+anomalous: 0
+path length: 58
+normal route: [ 3.7 -7.4] -> [ 6.   4.3]
+
+ship: 041
+anomalous: 0
+path length: 41
+normal route: [ 3.7 -7.4] -> [-5.5  0.6]
+
+ship: 042
+anomalous: 0
+path length: 44
+normal route: [ 3.7 -7.4] -> [ 6.   4.3]
+
+ship: 043
+anomalous: 0
+path length: 52
+normal route: [ 3.7 -7.4] -> [-7. -3.]
+
+ship: 044
+anomalous: 0
+path length: 44
+normal route: [ 3.7 -7.4] -> [ 6.   4.3]
+
+ship: 045
+anomalous: 0
+path length: 46
+normal route: [ 3.7 -7.4] -> [-5.5  0.6]
+
+ship: 046
+anomalous: 0
+path length: 42
+normal route: [ 3.7 -7.4] -> [-7. -3.]
+
+ship: 047
+anomalous: 0
+path length: 65
+normal route: [ 3.7 -7.4] -> [-7. -3.]
+
+ship: 048
+anomalous: 0
+path length: 41
+normal route: [ 3.7 -7.4] -> [ 6.   4.3]
+
+ship: 049
+anomalous: 0
+path length: 48
+normal route: [ 3.7 -7.4] -> [-5.5  0.6]
+
+ship: 050
+anomalous: 0
+path length: 59
+normal route: [ 3.7 -7.4] -> [-7. -3.]
+
+ship: 051
+anomalous: 0
+path length: 44
+normal route: [ 3.7 -7.4] -> [-7. -3.]
+
+ship: 052
+anomalous: 0
+path length: 59
+normal route: [ 3.7 -7.4] -> [ 6.   4.3]
+
+ship: 053
+anomalous: 0
+path length: 50
+normal route: [ 3.7 -7.4] -> [-5.5  0.6]
+
+ship: 054
+anomalous: 0
+path length: 49
+normal route: [ 3.7 -7.4] -> [ 6.   4.3]
+
+ship: 055
+anomalous: 0
+path length: 53
+normal route: [ 3.7 -7.4] -> [ 6.   4.3]
+
+ship: 056
+anomalous: 0
+path length: 44
+normal route: [ 3.7 -7.4] -> [-7. -3.]
+
+ship: 057
+anomalous: 0
+path length: 49
+normal route: [ 3.7 -7.4] -> [ 6.   4.3]
+
+ship: 058
+anomalous: 0
+path length: 41
+normal route: [ 3.7 -7.4] -> [ 6.   4.3]
+
+ship: 059
+anomalous: 0
+path length: 48
+normal route: [ 3.7 -7.4] -> [-5.5  0.6]
+
+ship: 060
+anomalous: 0
+path length: 46
+normal route: [ 3.7 -7.4] -> [-7. -3.]
+
+ship: 061
+anomalous: 0
+path length: 48
+normal route: [ 3.7 -7.4] -> [ 6.   4.3]
+
+ship: 062
+anomalous: 0
+path length: 46
+normal route: [ 3.7 -7.4] -> [-5.5  0.6]
+
+ship: 063
+anomalous: 0
+path length: 48
+normal route: [ 3.7 -7.4] -> [-5.5  0.6]
+
+ship: 064
+anomalous: 0
+path length: 47
+normal route: [ 3.7 -7.4] -> [-5.5  0.6]
+
+ship: 065
+anomalous: 0
+path length: 48
+normal route: [ 3.7 -7.4] -> [-7. -3.]
+
+ship: 066
+anomalous: 0
+path length: 71
+normal route: [ 3.7 -7.4] -> [-7. -3.]
+
+ship: 067
+anomalous: 0
+path length: 58
+normal route: [ 3.7 -7.4] -> [-5.5  0.6]
+
+ship: 068
+anomalous: 0
+path length: 51
+normal route: [ 3.7 -7.4] -> [-5.5  0.6]
+
+ship: 069
+anomalous: 0
+path length: 45
+normal route: [ 3.7 -7.4] -> [-5.5  0.6]
+
+ship: 070
+anomalous: 0
+path length: 51
+normal route: [ 3.7 -7.4] -> [-7. -3.]
+
+ship: 071
+anomalous: 0
+path length: 49
+normal route: [ 3.7 -7.4] -> [ 6.   4.3]
+
+ship: 072
+anomalous: 0
+path length: 50
+normal route: [ 3.7 -7.4] -> [-7. -3.]
+
+ship: 073
+anomalous: 0
+path length: 46
+normal route: [ 3.7 -7.4] -> [ 6.   4.3]
+
+ship: 074
+anomalous: 0
+path length: 51
+normal route: [ 3.7 -7.4] -> [-5.5  0.6]
+
+ship: 075
+anomalous: 0
+path length: 43
+normal route: [ 3.7 -7.4] -> [-7. -3.]
+
+ship: 076
+anomalous: 0
+path length: 48
+normal route: [ 3.7 -7.4] -> [-5.5  0.6]
+
+ship: 077
+anomalous: 0
+path length: 48
+normal route: [ 3.7 -7.4] -> [-5.5  0.6]
+
+ship: 078
+anomalous: 0
+path length: 40
+normal route: [ 3.7 -7.4] -> [ 6.   4.3]
+
+ship: 079
+anomalous: 0
+path length: 47
+normal route: [ 3.7 -7.4] -> [-5.5  0.6]
+
+ship: 080
+anomalous: 0
+path length: 57
+normal route: [ 3.7 -7.4] -> [ 6.   4.3]
+
+ship: 081
+anomalous: 0
+path length: 52
+normal route: [ 3.7 -7.4] -> [ 6.   4.3]
+
+ship: 082
+anomalous: 0
+path length: 46
+normal route: [ 3.7 -7.4] -> [-7. -3.]
+
+ship: 083
+anomalous: 0
+path length: 47
+normal route: [ 3.7 -7.4] -> [-5.5  0.6]
+
+ship: 084
+anomalous: 0
+path length: 59
+normal route: [ 3.7 -7.4] -> [ 6.   4.3]
+
+ship: 085
+anomalous: 0
+path length: 46
+normal route: [ 3.7 -7.4] -> [-5.5  0.6]
+
+ship: 086
+anomalous: 0
+path length: 39
+normal route: [ 3.7 -7.4] -> [-7. -3.]
+
+ship: 087
+anomalous: 0
+path length: 56
+normal route: [ 3.7 -7.4] -> [-5.5  0.6]
+
+ship: 088
+anomalous: 0
+path length: 46
+normal route: [ 3.7 -7.4] -> [ 6.   4.3]
+
+ship: 089
+anomalous: 0
+path length: 53
+normal route: [ 3.7 -7.4] -> [-5.5  0.6]
+
+ship: 090
+anomalous: 0
+path length: 42
+normal route: [ 3.7 -7.4] -> [-7. -3.]
+
+ship: 091
+anomalous: 0
+path length: 55
+normal route: [ 3.7 -7.4] -> [ 6.   4.3]
+
+ship: 092
+anomalous: 0
+path length: 66
+normal route: [ 3.7 -7.4] -> [ 6.   4.3]
+
+ship: 093
+anomalous: 0
+path length: 51
+normal route: [ 3.7 -7.4] -> [-5.5  0.6]
+
+ship: 094
+anomalous: 0
+path length: 40
+normal route: [ 3.7 -7.4] -> [ 6.   4.3]
+
+ship: 095
+anomalous: 0
+path length: 57
+normal route: [ 3.7 -7.4] -> [-5.5  0.6]
+
+ship: 096
+anomalous: 0
+path length: 50
+normal route: [ 3.7 -7.4] -> [ 6.   4.3]
+
+ship: 097
+anomalous: 0
+path length: 41
+normal route: [ 3.7 -7.4] -> [-7. -3.]
+
+ship: 098
+anomalous: 0
+path length: 40
+normal route: [ 3.7 -7.4] -> [-5.5  0.6]
+
+ship: 099
+anomalous: 0
+path length: 52
+normal route: [ 3.7 -7.4] -> [-5.5  0.6]
+
+ship: 100
+anomalous: 0
+path length: 60
+normal route: [ 3.7 -7.4] -> [ 6.   4.3]
+
+ship: 101
+anomalous: 0
+path length: 39
+normal route: [ 3.7 -7.4] -> [ 6.   4.3]
+
+ship: 102
+anomalous: 0
+path length: 47
+normal route: [ 3.7 -7.4] -> [-7. -3.]
+
+ship: 103
+anomalous: 0
+path length: 43
+normal route: [ 3.7 -7.4] -> [-7. -3.]
+
+ship: 104
+anomalous: 0
+path length: 58
+normal route: [ 3.7 -7.4] -> [-7. -3.]
+
+ship: 105
+anomalous: 0
+path length: 48
+normal route: [ 3.7 -7.4] -> [ 6.   4.3]
+
+ship: 106
+anomalous: 0
+path length: 37
+normal route: [ 3.7 -7.4] -> [-7. -3.]
+
+ship: 107
+anomalous: 0
+path length: 59
+normal route: [ 3.7 -7.4] -> [-5.5  0.6]
+
+ship: 108
+anomalous: 0
+path length: 52
+normal route: [ 3.7 -7.4] -> [ 6.   4.3]
+
+ship: 109
+anomalous: 0
+path length: 42
+normal route: [ 3.7 -7.4] -> [-7. -3.]
+
+ship: 110
+anomalous: 0
+path length: 57
+normal route: [ 3.7 -7.4] -> [-5.5  0.6]
+
+ship: 111
+anomalous: 0
+path length: 46
+normal route: [ 3.7 -7.4] -> [ 6.   4.3]
+
+ship: 112
+anomalous: 0
+path length: 44
+normal route: [ 3.7 -7.4] -> [ 6.   4.3]
+
+ship: 113
+anomalous: 0
+path length: 37
+normal route: [ 3.7 -7.4] -> [-7. -3.]
+
+ship: 114
+anomalous: 0
+path length: 41
+normal route: [ 3.7 -7.4] -> [ 6.   4.3]
+
+ship: 115
+anomalous: 0
+path length: 44
+normal route: [ 3.7 -7.4] -> [-7. -3.]
+
+ship: 116
+anomalous: 0
+path length: 52
+normal route: [ 3.7 -7.4] -> [-5.5  0.6]
+
+ship: 117
+anomalous: 0
+path length: 75
+normal route: [ 3.7 -7.4] -> [-7. -3.]
+
+ship: 118
+anomalous: 0
+path length: 46
+normal route: [ 3.7 -7.4] -> [ 6.   4.3]
+
+ship: 119
+anomalous: 0
+path length: 47
+normal route: [ 3.7 -7.4] -> [ 6.   4.3]
+
+ship: 120
+anomalous: 0
+path length: 48
+normal route: [ 3.7 -7.4] -> [-5.5  0.6]
+
+ship: 121
+anomalous: 0
+path length: 43
+normal route: [ 3.7 -7.4] -> [-7. -3.]
+
+ship: 122
+anomalous: 0
+path length: 53
+normal route: [ 3.7 -7.4] -> [-5.5  0.6]
+
+ship: 123
+anomalous: 0
+path length: 48
+normal route: [ 3.7 -7.4] -> [-7. -3.]
+
+ship: 124
+anomalous: 0
+path length: 42
+normal route: [ 3.7 -7.4] -> [ 6.   4.3]
+
+ship: 125
+anomalous: 0
+path length: 44
+normal route: [ 3.7 -7.4] -> [ 6.   4.3]
+
+ship: 126
+anomalous: 0
+path length: 51
+normal route: [ 3.7 -7.4] -> [-7. -3.]
+
+ship: 127
+anomalous: 0
+path length: 56
+normal route: [ 3.7 -7.4] -> [-5.5  0.6]
+
+ship: 128
+anomalous: 0
+path length: 54
+normal route: [ 3.7 -7.4] -> [-5.5  0.6]
+
+ship: 129
+anomalous: 0
+path length: 57
+normal route: [ 3.7 -7.4] -> [ 6.   4.3]
+
+ship: 130
+anomalous: 0
+path length: 50
+normal route: [ 3.7 -7.4] -> [-7. -3.]
+
+ship: 131
+anomalous: 0
+path length: 48
+normal route: [ 3.7 -7.4] -> [ 6.   4.3]
+
+ship: 132
+anomalous: 0
+path length: 50
+normal route: [ 3.7 -7.4] -> [ 6.   4.3]
+
+ship: 133
+anomalous: 0
+path length: 42
+normal route: [ 3.7 -7.4] -> [-7. -3.]
+
+ship: 134
+anomalous: 0
+path length: 41
+normal route: [ 3.7 -7.4] -> [-7. -3.]
+
+ship: 135
+anomalous: 0
+path length: 52
+normal route: [ 3.7 -7.4] -> [ 6.   4.3]
+
+ship: 136
+anomalous: 0
+path length: 53
+normal route: [ 3.7 -7.4] -> [-5.5  0.6]
+
+ship: 137
+anomalous: 0
+path length: 44
+normal route: [ 3.7 -7.4] -> [ 6.   4.3]
+
+ship: 138
+anomalous: 0
+path length: 44
+normal route: [ 3.7 -7.4] -> [-7. -3.]
+
+ship: 139
+anomalous: 0
+path length: 42
+normal route: [ 3.7 -7.4] -> [-5.5  0.6]
+
+ship: 140
+anomalous: 0
+path length: 48
+normal route: [ 3.7 -7.4] -> [-5.5  0.6]
+
+ship: 141
+anomalous: 0
+path length: 44
+normal route: [ 3.7 -7.4] -> [-5.5  0.6]
+
+ship: 142
+anomalous: 0
+path length: 65
+normal route: [ 3.7 -7.4] -> [ 6.   4.3]
+
+ship: 143
+anomalous: 0
+path length: 58
+normal route: [ 3.7 -7.4] -> [ 6.   4.3]
+
+ship: 144
+anomalous: 0
+path length: 58
+normal route: [ 3.7 -7.4] -> [-5.5  0.6]
+
+ship: 145
+anomalous: 0
+path length: 44
+normal route: [ 3.7 -7.4] -> [-7. -3.]
+
+ship: 146
+anomalous: 0
+path length: 52
+normal route: [ 3.7 -7.4] -> [ 6.   4.3]
+
+ship: 147
+anomalous: 0
+path length: 48
+normal route: [ 3.7 -7.4] -> [-5.5  0.6]
+
+ship: 148
+anomalous: 0
+path length: 54
+normal route: [ 3.7 -7.4] -> [-5.5  0.6]
+
+ship: 149
+anomalous: 0
+path length: 48
+normal route: [ 3.7 -7.4] -> [ 6.   4.3]
+
+ship: 150
+anomalous: 0
+path length: 58
+normal route: [ 3.7 -7.4] -> [-5.5  0.6]
+
+ship: 151
+anomalous: 0
+path length: 52
+normal route: [ 3.7 -7.4] -> [-5.5  0.6]
+
+ship: 152
+anomalous: 0
+path length: 54
+normal route: [ 3.7 -7.4] -> [-5.5  0.6]
+
+ship: 153
+anomalous: 0
+path length: 53
+normal route: [ 3.7 -7.4] -> [-5.5  0.6]
+
+ship: 154
+anomalous: 0
+path length: 49
+normal route: [ 3.7 -7.4] -> [ 6.   4.3]
+
+ship: 155
+anomalous: 0
+path length: 53
+normal route: [ 3.7 -7.4] -> [ 6.   4.3]
+
+ship: 156
+anomalous: 0
+path length: 55
+normal route: [ 3.7 -7.4] -> [-5.5  0.6]
+
+ship: 157
+anomalous: 0
+path length: 50
+normal route: [ 3.7 -7.4] -> [-5.5  0.6]
+
+ship: 158
+anomalous: 0
+path length: 48
+normal route: [ 3.7 -7.4] -> [-7. -3.]
+
+ship: 159
+anomalous: 0
+path length: 54
+normal route: [ 3.7 -7.4] -> [-5.5  0.6]
+
+ship: 160
+anomalous: 0
+path length: 43
+normal route: [ 3.7 -7.4] -> [-7. -3.]
+
+ship: 161
+anomalous: 0
+path length: 45
+normal route: [ 3.7 -7.4] -> [ 6.   4.3]
+
+ship: 162
+anomalous: 0
+path length: 47
+normal route: [ 3.7 -7.4] -> [-7. -3.]
+
+ship: 163
+anomalous: 0
+path length: 47
+normal route: [ 3.7 -7.4] -> [-5.5  0.6]
+
+ship: 164
+anomalous: 0
+path length: 40
+normal route: [ 3.7 -7.4] -> [ 6.   4.3]
+
+ship: 165
+anomalous: 0
+path length: 53
+normal route: [ 3.7 -7.4] -> [-5.5  0.6]
+
+ship: 166
+anomalous: 0
+path length: 52
+normal route: [ 3.7 -7.4] -> [ 6.   4.3]
+
+ship: 167
+anomalous: 0
+path length: 49
+normal route: [ 3.7 -7.4] -> [ 6.   4.3]
+
+ship: 168
+anomalous: 0
+path length: 56
+normal route: [ 3.7 -7.4] -> [-5.5  0.6]
+
+ship: 169
+anomalous: 0
+path length: 48
+normal route: [ 3.7 -7.4] -> [-7. -3.]
+
+ship: 170
+anomalous: 0
+path length: 43
+normal route: [ 3.7 -7.4] -> [ 6.   4.3]
+
+ship: 171
+anomalous: 0
+path length: 47
+normal route: [ 3.7 -7.4] -> [-5.5  0.6]
+
+ship: 172
+anomalous: 0
+path length: 57
+normal route: [ 3.7 -7.4] -> [-5.5  0.6]
+
+ship: 173
+anomalous: 0
+path length: 50
+normal route: [ 3.7 -7.4] -> [ 6.   4.3]
+
+ship: 174
+anomalous: 0
+path length: 42
+normal route: [ 3.7 -7.4] -> [-7. -3.]
+
+ship: 175
+anomalous: 0
+path length: 47
+normal route: [ 3.7 -7.4] -> [-7. -3.]
+
+ship: 176
+anomalous: 0
+path length: 51
+normal route: [ 3.7 -7.4] -> [ 6.   4.3]
+
+ship: 177
+anomalous: 0
+path length: 54
+normal route: [ 3.7 -7.4] -> [ 6.   4.3]
+
+ship: 178
+anomalous: 0
+path length: 53
+normal route: [ 3.7 -7.4] -> [-7. -3.]
+
+ship: 179
+anomalous: 0
+path length: 50
+normal route: [ 3.7 -7.4] -> [-5.5  0.6]
+
+ship: 180
+anomalous: 0
+path length: 51
+normal route: [ 3.7 -7.4] -> [-5.5  0.6]
+
+ship: 181
+anomalous: 0
+path length: 61
+normal route: [ 3.7 -7.4] -> [-7. -3.]
+
+ship: 182
+anomalous: 0
+path length: 60
+normal route: [ 3.7 -7.4] -> [-7. -3.]
+
+ship: 183
+anomalous: 0
+path length: 46
+normal route: [ 3.7 -7.4] -> [-5.5  0.6]
+
+ship: 184
+anomalous: 0
+path length: 44
+normal route: [ 3.7 -7.4] -> [-5.5  0.6]
+
+ship: 185
+anomalous: 0
+path length: 45
+normal route: [ 3.7 -7.4] -> [-7. -3.]
+
+ship: 186
+anomalous: 0
+path length: 48
+normal route: [ 3.7 -7.4] -> [ 6.   4.3]
+
+ship: 187
+anomalous: 0
+path length: 47
+normal route: [ 3.7 -7.4] -> [-7. -3.]
+
+ship: 188
+anomalous: 0
+path length: 40
+normal route: [ 3.7 -7.4] -> [ 6.   4.3]
+
+ship: 189
+anomalous: 0
+path length: 59
+normal route: [ 3.7 -7.4] -> [ 6.   4.3]
+
+ship: 190
+anomalous: 0
+path length: 51
+normal route: [ 3.7 -7.4] -> [-5.5  0.6]
+
+ship: 191
+anomalous: 0
+path length: 52
+normal route: [ 3.7 -7.4] -> [-5.5  0.6]
+
+ship: 192
+anomalous: 0
+path length: 42
+normal route: [ 3.7 -7.4] -> [-7. -3.]
+
+ship: 193
+anomalous: 0
+path length: 63
+normal route: [ 3.7 -7.4] -> [ 6.   4.3]
+
+ship: 194
+anomalous: 0
+path length: 59
+normal route: [ 3.7 -7.4] -> [-7. -3.]
+
+ship: 195
+anomalous: 0
+path length: 44
+normal route: [ 3.7 -7.4] -> [-5.5  0.6]
+
+ship: 196
+anomalous: 0
+path length: 51
+normal route: [ 3.7 -7.4] -> [-5.5  0.6]
+
+ship: 197
+anomalous: 0
+path length: 52
+normal route: [ 3.7 -7.4] -> [-7. -3.]
+
+ship: 198
+anomalous: 0
+path length: 49
+normal route: [ 3.7 -7.4] -> [-7. -3.]
+
+ship: 199
+anomalous: 0
+path length: 44
+normal route: [ 3.7 -7.4] -> [ 6.   4.3]
+
+ship: 200
+anomalous: 0
+path length: 52
+normal route: [ 3.7 -7.4] -> [-7. -3.]
+
+ship: 201
+anomalous: 0
+path length: 48
+normal route: [ 3.7 -7.4] -> [-7. -3.]
+
+ship: 202
+anomalous: 0
+path length: 40
+normal route: [ 3.7 -7.4] -> [ 6.   4.3]
+
+ship: 203
+anomalous: 0
+path length: 56
+normal route: [ 3.7 -7.4] -> [-5.5  0.6]
+
+ship: 204
+anomalous: 0
+path length: 56
+normal route: [ 3.7 -7.4] -> [ 6.   4.3]
+
+ship: 205
+anomalous: 0
+path length: 43
+normal route: [ 3.7 -7.4] -> [-7. -3.]
+
+ship: 206
+anomalous: 0
+path length: 45
+normal route: [ 3.7 -7.4] -> [-7. -3.]
+
+ship: 207
+anomalous: 0
+path length: 46
+normal route: [ 3.7 -7.4] -> [-7. -3.]
+
+ship: 208
+anomalous: 0
+path length: 47
+normal route: [ 3.7 -7.4] -> [ 6.   4.3]
+
+ship: 209
+anomalous: 0
+path length: 51
+normal route: [ 3.7 -7.4] -> [ 6.   4.3]
+
+ship: 210
+anomalous: 0
+path length: 44
+normal route: [ 3.7 -7.4] -> [-7. -3.]
+
+ship: 211
+anomalous: 0
+path length: 51
+normal route: [ 3.7 -7.4] -> [ 6.   4.3]
+
+ship: 212
+anomalous: 0
+path length: 45
+normal route: [ 3.7 -7.4] -> [-7. -3.]
+
+ship: 213
+anomalous: 0
+path length: 42
+normal route: [ 3.7 -7.4] -> [-5.5  0.6]
+
+ship: 214
+anomalous: 0
+path length: 38
+normal route: [ 3.7 -7.4] -> [-7. -3.]
+
+ship: 215
+anomalous: 0
+path length: 69
+normal route: [ 3.7 -7.4] -> [-5.5  0.6]
+
+ship: 216
+anomalous: 0
+path length: 42
+normal route: [ 3.7 -7.4] -> [-7. -3.]
+
+ship: 217
+anomalous: 0
+path length: 59
+normal route: [ 3.7 -7.4] -> [-7. -3.]
+
+ship: 218
+anomalous: 0
+path length: 45
+normal route: [ 3.7 -7.4] -> [ 6.   4.3]
+
+ship: 219
+anomalous: 0
+path length: 40
+normal route: [ 3.7 -7.4] -> [-7. -3.]
+
+ship: 220
+anomalous: 0
+path length: 53
+normal route: [ 3.7 -7.4] -> [ 6.   4.3]
+
+ship: 221
+anomalous: 0
+path length: 46
+normal route: [ 3.7 -7.4] -> [-5.5  0.6]
+
+ship: 222
+anomalous: 0
+path length: 43
+normal route: [ 3.7 -7.4] -> [-5.5  0.6]
+
+ship: 223
+anomalous: 0
+path length: 47
+normal route: [ 3.7 -7.4] -> [ 6.   4.3]
+
+ship: 224
+anomalous: 0
+path length: 51
+normal route: [ 3.7 -7.4] -> [ 6.   4.3]
+
+ship: 225
+anomalous: 0
+path length: 50
+normal route: [ 3.7 -7.4] -> [ 6.   4.3]
+
+ship: 226
+anomalous: 0
+path length: 57
+normal route: [ 3.7 -7.4] -> [ 6.   4.3]
+
+ship: 227
+anomalous: 0
+path length: 42
+normal route: [ 3.7 -7.4] -> [-5.5  0.6]
+
+ship: 228
+anomalous: 0
+path length: 54
+normal route: [ 3.7 -7.4] -> [-7. -3.]
+
+ship: 229
+anomalous: 0
+path length: 42
+normal route: [ 3.7 -7.4] -> [-7. -3.]
+
+ship: 230
+anomalous: 0
+path length: 44
+normal route: [ 3.7 -7.4] -> [-7. -3.]
+
+ship: 231
+anomalous: 0
+path length: 37
+normal route: [ 3.7 -7.4] -> [-7. -3.]
+
+ship: 232
+anomalous: 0
+path length: 45
+normal route: [ 3.7 -7.4] -> [-5.5  0.6]
+
+ship: 233
+anomalous: 0
+path length: 42
+normal route: [ 3.7 -7.4] -> [-7. -3.]
+
+ship: 234
+anomalous: 0
+path length: 49
+normal route: [ 3.7 -7.4] -> [-5.5  0.6]
+
+ship: 235
+anomalous: 0
+path length: 46
+normal route: [ 3.7 -7.4] -> [-7. -3.]
+
+ship: 236
+anomalous: 0
+path length: 53
+normal route: [ 3.7 -7.4] -> [ 6.   4.3]
+
+ship: 237
+anomalous: 0
+path length: 56
+normal route: [ 3.7 -7.4] -> [-7. -3.]
+
+ship: 238
+anomalous: 0
+path length: 52
+normal route: [ 3.7 -7.4] -> [-7. -3.]
+
+ship: 239
+anomalous: 0
+path length: 43
+normal route: [ 3.7 -7.4] -> [-5.5  0.6]
+
+ship: 240
+anomalous: 0
+path length: 50
+normal route: [ 3.7 -7.4] -> [-7. -3.]
+
+ship: 241
+anomalous: 0
+path length: 60
+normal route: [ 3.7 -7.4] -> [-5.5  0.6]
+
+ship: 242
+anomalous: 0
+path length: 55
+normal route: [ 3.7 -7.4] -> [-5.5  0.6]
+
+ship: 243
+anomalous: 0
+path length: 51
+normal route: [ 3.7 -7.4] -> [-5.5  0.6]
+
+ship: 244
+anomalous: 0
+path length: 49
+normal route: [ 3.7 -7.4] -> [-7. -3.]
+
+ship: 245
+anomalous: 0
+path length: 43
+normal route: [ 3.7 -7.4] -> [-7. -3.]
+
+ship: 246
+anomalous: 0
+path length: 44
+normal route: [ 3.7 -7.4] -> [-7. -3.]
+
+ship: 247
+anomalous: 0
+path length: 38
+normal route: [ 3.7 -7.4] -> [ 6.   4.3]
+
+ship: 248
+anomalous: 0
+path length: 49
+normal route: [ 3.7 -7.4] -> [-5.5  0.6]
+
+ship: 249
+anomalous: 0
+path length: 49
+normal route: [ 3.7 -7.4] -> [-7. -3.]
+
+ship: 250
+anomalous: 0
+path length: 55
+normal route: [ 3.7 -7.4] -> [ 6.   4.3]
+
+ship: 251
+anomalous: 0
+path length: 51
+normal route: [ 3.7 -7.4] -> [ 6.   4.3]
+
+ship: 252
+anomalous: 0
+path length: 44
+normal route: [ 3.7 -7.4] -> [-7. -3.]
+
+ship: 253
+anomalous: 0
+path length: 47
+normal route: [ 3.7 -7.4] -> [-7. -3.]
+
+ship: 254
+anomalous: 0
+path length: 48
+normal route: [ 3.7 -7.4] -> [-5.5  0.6]
+
+ship: 255
+anomalous: 0
+path length: 43
+normal route: [ 3.7 -7.4] -> [ 6.   4.3]
+
+ship: 256
+anomalous: 0
+path length: 46
+normal route: [ 3.7 -7.4] -> [ 6.   4.3]
+
+ship: 257
+anomalous: 0
+path length: 48
+normal route: [ 3.7 -7.4] -> [-5.5  0.6]
+
+ship: 258
+anomalous: 0
+path length: 40
+normal route: [ 3.7 -7.4] -> [ 6.   4.3]
+
+ship: 259
+anomalous: 0
+path length: 59
+normal route: [ 3.7 -7.4] -> [-5.5  0.6]
+
+ship: 260
+anomalous: 0
+path length: 71
+normal route: [ 3.7 -7.4] -> [-5.5  0.6]
+
+ship: 261
+anomalous: 0
+path length: 45
+normal route: [ 3.7 -7.4] -> [-7. -3.]
+
+ship: 262
+anomalous: 0
+path length: 52
+normal route: [ 3.7 -7.4] -> [-5.5  0.6]
+
+ship: 263
+anomalous: 0
+path length: 59
+normal route: [ 3.7 -7.4] -> [-5.5  0.6]
+
+ship: 264
+anomalous: 0
+path length: 43
+normal route: [ 3.7 -7.4] -> [-7. -3.]
+
+ship: 265
+anomalous: 0
+path length: 47
+normal route: [ 3.7 -7.4] -> [-5.5  0.6]
+
+ship: 266
+anomalous: 0
+path length: 58
+normal route: [ 3.7 -7.4] -> [-7. -3.]
+
+ship: 267
+anomalous: 0
+path length: 44
+normal route: [ 3.7 -7.4] -> [-5.5  0.6]
+
+ship: 268
+anomalous: 0
+path length: 59
+normal route: [ 3.7 -7.4] -> [-7. -3.]
+
+ship: 269
+anomalous: 0
+path length: 70
+normal route: [ 3.7 -7.4] -> [-5.5  0.6]
+
+ship: 270
+anomalous: 0
+path length: 52
+normal route: [ 3.7 -7.4] -> [-5.5  0.6]
+
+ship: 271
+anomalous: 0
+path length: 51
+normal route: [ 3.7 -7.4] -> [-5.5  0.6]
+
+ship: 272
+anomalous: 0
+path length: 41
+normal route: [ 3.7 -7.4] -> [-7. -3.]
+
+ship: 273
+anomalous: 0
+path length: 50
+normal route: [ 3.7 -7.4] -> [-5.5  0.6]
+
+ship: 274
+anomalous: 0
+path length: 58
+normal route: [ 3.7 -7.4] -> [-5.5  0.6]
+
+ship: 275
+anomalous: 0
+path length: 42
+normal route: [ 3.7 -7.4] -> [-7. -3.]
+
+ship: 276
+anomalous: 0
+path length: 49
+normal route: [ 3.7 -7.4] -> [-5.5  0.6]
+
+ship: 277
+anomalous: 0
+path length: 46
+normal route: [ 3.7 -7.4] -> [ 6.   4.3]
+
+ship: 278
+anomalous: 0
+path length: 47
+normal route: [ 3.7 -7.4] -> [ 6.   4.3]
+
+ship: 279
+anomalous: 0
+path length: 45
+normal route: [ 3.7 -7.4] -> [-5.5  0.6]
+
+ship: 280
+anomalous: 0
+path length: 46
+normal route: [ 3.7 -7.4] -> [-5.5  0.6]
+
+ship: 281
+anomalous: 0
+path length: 45
+normal route: [ 3.7 -7.4] -> [-5.5  0.6]
+
+ship: 282
+anomalous: 0
+path length: 50
+normal route: [ 3.7 -7.4] -> [-7. -3.]
+
+ship: 283
+anomalous: 0
+path length: 40
+normal route: [ 3.7 -7.4] -> [-5.5  0.6]
+
+ship: 284
+anomalous: 0
+path length: 46
+normal route: [ 3.7 -7.4] -> [-5.5  0.6]
+
+ship: 285
+anomalous: 0
+path length: 44
+normal route: [ 3.7 -7.4] -> [ 6.   4.3]
+
+ship: 286
+anomalous: 0
+path length: 49
+normal route: [ 3.7 -7.4] -> [ 6.   4.3]
+
+ship: 287
+anomalous: 0
+path length: 51
+normal route: [ 3.7 -7.4] -> [-5.5  0.6]
+
+ship: 288
+anomalous: 0
+path length: 65
+normal route: [ 3.7 -7.4] -> [-5.5  0.6]
+
+ship: 289
+anomalous: 0
+path length: 52
+normal route: [ 3.7 -7.4] -> [-5.5  0.6]
+
+ship: 290
+anomalous: 0
+path length: 52
+normal route: [ 3.7 -7.4] -> [-5.5  0.6]
+
+ship: 291
+anomalous: 0
+path length: 43
+normal route: [ 3.7 -7.4] -> [ 6.   4.3]
+
+ship: 292
+anomalous: 0
+path length: 48
+normal route: [ 3.7 -7.4] -> [-5.5  0.6]
+
+ship: 293
+anomalous: 0
+path length: 57
+normal route: [ 3.7 -7.4] -> [-7. -3.]
+
+ship: 294
+anomalous: 0
+path length: 56
+normal route: [ 3.7 -7.4] -> [-5.5  0.6]
+
+ship: 295
+anomalous: 0
+path length: 50
+normal route: [ 3.7 -7.4] -> [-5.5  0.6]
+
+ship: 296
+anomalous: 0
+path length: 52
+normal route: [ 3.7 -7.4] -> [ 6.   4.3]
+
+ship: 297
+anomalous: 0
+path length: 43
+normal route: [ 3.7 -7.4] -> [-7. -3.]
+
+ship: 298
+anomalous: 0
+path length: 47
+normal route: [ 3.7 -7.4] -> [-7. -3.]
+
+ship: 299
+anomalous: 0
+path length: 48
+normal route: [ 3.7 -7.4] -> [-5.5  0.6]
+
+ship: 300
+anomalous: 0
+path length: 51
+normal route: [ 3.7 -7.4] -> [-7. -3.]
+
+ship: 301
+anomalous: 0
+path length: 53
+normal route: [ 3.7 -7.4] -> [-7. -3.]
+
+ship: 302
+anomalous: 0
+path length: 42
+normal route: [ 3.7 -7.4] -> [ 6.   4.3]
+
+ship: 303
+anomalous: 0
+path length: 43
+normal route: [ 3.7 -7.4] -> [-5.5  0.6]
+
+ship: 304
+anomalous: 0
+path length: 45
+normal route: [ 3.7 -7.4] -> [ 6.   4.3]
+
+ship: 305
+anomalous: 0
+path length: 49
+normal route: [ 3.7 -7.4] -> [-5.5  0.6]
+
+ship: 306
+anomalous: 0
+path length: 49
+normal route: [ 3.7 -7.4] -> [-7. -3.]
+
+ship: 307
+anomalous: 0
+path length: 47
+normal route: [ 3.7 -7.4] -> [-5.5  0.6]
+
+ship: 308
+anomalous: 0
+path length: 47
+normal route: [ 3.7 -7.4] -> [-5.5  0.6]
+
+ship: 309
+anomalous: 0
+path length: 47
+normal route: [ 3.7 -7.4] -> [-7. -3.]
+
+ship: 310
+anomalous: 0
+path length: 48
+normal route: [ 3.7 -7.4] -> [ 6.   4.3]
+
+ship: 311
+anomalous: 0
+path length: 55
+normal route: [ 3.7 -7.4] -> [ 6.   4.3]
+
+ship: 312
+anomalous: 0
+path length: 47
+normal route: [ 3.7 -7.4] -> [-7. -3.]
+
+ship: 313
+anomalous: 0
+path length: 47
+normal route: [ 3.7 -7.4] -> [-5.5  0.6]
+
+ship: 314
+anomalous: 0
+path length: 49
+normal route: [ 3.7 -7.4] -> [ 6.   4.3]
+
+ship: 315
+anomalous: 0
+path length: 57
+normal route: [ 3.7 -7.4] -> [-5.5  0.6]
+
+ship: 316
+anomalous: 0
+path length: 52
+normal route: [ 3.7 -7.4] -> [ 6.   4.3]
+
+ship: 317
+anomalous: 0
+path length: 44
+normal route: [ 3.7 -7.4] -> [-5.5  0.6]
+
+ship: 318
+anomalous: 0
+path length: 46
+normal route: [ 3.7 -7.4] -> [-7. -3.]
+
+ship: 319
+anomalous: 0
+path length: 56
+normal route: [ 3.7 -7.4] -> [-5.5  0.6]
+
+ship: 320
+anomalous: 0
+path length: 51
+normal route: [ 3.7 -7.4] -> [-7. -3.]
+
+ship: 321
+anomalous: 0
+path length: 47
+normal route: [ 3.7 -7.4] -> [-7. -3.]
+
+ship: 322
+anomalous: 0
+path length: 51
+normal route: [ 3.7 -7.4] -> [ 6.   4.3]
+
+ship: 323
+anomalous: 0
+path length: 46
+normal route: [ 3.7 -7.4] -> [-5.5  0.6]
+
+ship: 324
+anomalous: 0
+path length: 40
+normal route: [ 3.7 -7.4] -> [-7. -3.]
+
+ship: 325
+anomalous: 0
+path length: 44
+normal route: [ 3.7 -7.4] -> [-7. -3.]
+
+ship: 326
+anomalous: 0
+path length: 42
+normal route: [ 3.7 -7.4] -> [ 6.   4.3]
+
+ship: 327
+anomalous: 0
+path length: 51
+normal route: [ 3.7 -7.4] -> [ 6.   4.3]
+
+ship: 328
+anomalous: 0
+path length: 46
+normal route: [ 3.7 -7.4] -> [-7. -3.]
+
+ship: 329
+anomalous: 0
+path length: 54
+normal route: [ 3.7 -7.4] -> [ 6.   4.3]
+
+ship: 330
+anomalous: 0
+path length: 47
+normal route: [ 3.7 -7.4] -> [-7. -3.]
+
+ship: 331
+anomalous: 0
+path length: 55
+normal route: [ 3.7 -7.4] -> [-7. -3.]
+
+ship: 332
+anomalous: 0
+path length: 52
+normal route: [ 3.7 -7.4] -> [-7. -3.]
+
+ship: 333
+anomalous: 0
+path length: 59
+normal route: [ 3.7 -7.4] -> [-5.5  0.6]
+
+ship: 334
+anomalous: 0
+path length: 45
+normal route: [ 3.7 -7.4] -> [ 6.   4.3]
+
+ship: 335
+anomalous: 0
+path length: 43
+normal route: [ 3.7 -7.4] -> [ 6.   4.3]
+
+ship: 336
+anomalous: 0
+path length: 51
+normal route: [ 3.7 -7.4] -> [-7. -3.]
+
+ship: 337
+anomalous: 0
+path length: 61
+normal route: [ 3.7 -7.4] -> [ 6.   4.3]
+
+ship: 338
+anomalous: 0
+path length: 49
+normal route: [ 3.7 -7.4] -> [ 6.   4.3]
+
+ship: 339
+anomalous: 0
+path length: 42
+normal route: [ 3.7 -7.4] -> [-7. -3.]
+
+ship: 340
+anomalous: 0
+path length: 42
+normal route: [ 3.7 -7.4] -> [-7. -3.]
+
+ship: 341
+anomalous: 0
+path length: 54
+normal route: [ 3.7 -7.4] -> [-5.5  0.6]
+
+ship: 342
+anomalous: 0
+path length: 50
+normal route: [ 3.7 -7.4] -> [-7. -3.]
+
+ship: 343
+anomalous: 0
+path length: 58
+normal route: [ 3.7 -7.4] -> [-5.5  0.6]
+
+ship: 344
+anomalous: 0
+path length: 59
+normal route: [ 3.7 -7.4] -> [-5.5  0.6]
+
+ship: 345
+anomalous: 0
+path length: 56
+normal route: [ 3.7 -7.4] -> [ 6.   4.3]
+
+ship: 346
+anomalous: 0
+path length: 53
+normal route: [ 3.7 -7.4] -> [-7. -3.]
+
+ship: 347
+anomalous: 0
+path length: 52
+normal route: [ 3.7 -7.4] -> [-5.5  0.6]
+
+ship: 348
+anomalous: 0
+path length: 47
+normal route: [ 3.7 -7.4] -> [-7. -3.]
+
+ship: 349
+anomalous: 0
+path length: 53
+normal route: [ 3.7 -7.4] -> [-5.5  0.6]
+
+ship: 350
+anomalous: 0
+path length: 53
+normal route: [ 3.7 -7.4] -> [-7. -3.]
+
+ship: 351
+anomalous: 0
+path length: 46
+normal route: [ 3.7 -7.4] -> [-5.5  0.6]
+
+ship: 352
+anomalous: 0
+path length: 48
+normal route: [ 3.7 -7.4] -> [-7. -3.]
+
+ship: 353
+anomalous: 0
+path length: 58
+normal route: [ 3.7 -7.4] -> [-5.5  0.6]
+
+ship: 354
+anomalous: 0
+path length: 51
+normal route: [ 3.7 -7.4] -> [-7. -3.]
+
+ship: 355
+anomalous: 0
+path length: 53
+normal route: [ 3.7 -7.4] -> [ 6.   4.3]
+
+ship: 356
+anomalous: 0
+path length: 53
+normal route: [ 3.7 -7.4] -> [-5.5  0.6]
+
+ship: 357
+anomalous: 0
+path length: 52
+normal route: [ 3.7 -7.4] -> [-7. -3.]
+
+ship: 358
+anomalous: 0
+path length: 47
+normal route: [ 3.7 -7.4] -> [-5.5  0.6]
+
+ship: 359
+anomalous: 0
+path length: 52
+normal route: [ 3.7 -7.4] -> [ 6.   4.3]
+
+ship: 360
+anomalous: 0
+path length: 49
+normal route: [ 3.7 -7.4] -> [-5.5  0.6]
+
+ship: 361
+anomalous: 0
+path length: 40
+normal route: [ 3.7 -7.4] -> [-5.5  0.6]
+
+ship: 362
+anomalous: 0
+path length: 51
+normal route: [ 3.7 -7.4] -> [-5.5  0.6]
+
+ship: 363
+anomalous: 0
+path length: 55
+normal route: [ 3.7 -7.4] -> [-7. -3.]
+
+ship: 364
+anomalous: 0
+path length: 55
+normal route: [ 3.7 -7.4] -> [-5.5  0.6]
+
+ship: 365
+anomalous: 0
+path length: 42
+normal route: [ 3.7 -7.4] -> [-7. -3.]
+
+ship: 366
+anomalous: 0
+path length: 40
+normal route: [ 3.7 -7.4] -> [-7. -3.]
+
+ship: 367
+anomalous: 0
+path length: 41
+normal route: [ 3.7 -7.4] -> [ 6.   4.3]
+
+ship: 368
+anomalous: 0
+path length: 46
+normal route: [ 3.7 -7.4] -> [-5.5  0.6]
+
+ship: 369
+anomalous: 0
+path length: 54
+normal route: [ 3.7 -7.4] -> [-7. -3.]
+
+ship: 370
+anomalous: 0
+path length: 40
+normal route: [ 3.7 -7.4] -> [-7. -3.]
+
+ship: 371
+anomalous: 0
+path length: 38
+normal route: [ 3.7 -7.4] -> [-7. -3.]
+
+ship: 372
+anomalous: 0
+path length: 56
+normal route: [ 3.7 -7.4] -> [-7. -3.]
+
+ship: 373
+anomalous: 0
+path length: 44
+normal route: [ 3.7 -7.4] -> [ 6.   4.3]
+
+ship: 374
+anomalous: 0
+path length: 45
+normal route: [ 3.7 -7.4] -> [ 6.   4.3]
+
+ship: 375
+anomalous: 0
+path length: 48
+normal route: [ 3.7 -7.4] -> [ 6.   4.3]
+
+ship: 376
+anomalous: 0
+path length: 55
+normal route: [ 3.7 -7.4] -> [ 6.   4.3]
+
+ship: 377
+anomalous: 0
+path length: 43
+normal route: [ 3.7 -7.4] -> [ 6.   4.3]
+
+ship: 378
+anomalous: 0
+path length: 64
+normal route: [ 3.7 -7.4] -> [ 6.   4.3]
+
+ship: 379
+anomalous: 0
+path length: 51
+normal route: [ 3.7 -7.4] -> [ 6.   4.3]
+
+ship: 380
+anomalous: 0
+path length: 53
+normal route: [ 3.7 -7.4] -> [-5.5  0.6]
+
+ship: 381
+anomalous: 0
+path length: 58
+normal route: [ 3.7 -7.4] -> [-7. -3.]
+
+ship: 382
+anomalous: 0
+path length: 45
+normal route: [ 3.7 -7.4] -> [-7. -3.]
+
+ship: 383
+anomalous: 0
+path length: 54
+normal route: [ 3.7 -7.4] -> [ 6.   4.3]
+
+ship: 384
+anomalous: 0
+path length: 48
+normal route: [ 3.7 -7.4] -> [-7. -3.]
+
+ship: 385
+anomalous: 0
+path length: 48
+normal route: [ 3.7 -7.4] -> [-5.5  0.6]
+
+ship: 386
+anomalous: 0
+path length: 43
+normal route: [ 3.7 -7.4] -> [ 6.   4.3]
+
+ship: 387
+anomalous: 0
+path length: 49
+normal route: [ 3.7 -7.4] -> [ 6.   4.3]
+
+ship: 388
+anomalous: 0
+path length: 49
+normal route: [ 3.7 -7.4] -> [ 6.   4.3]
+
+ship: 389
+anomalous: 0
+path length: 50
+normal route: [ 3.7 -7.4] -> [ 6.   4.3]
+
+ship: 390
+anomalous: 0
+path length: 42
+normal route: [ 3.7 -7.4] -> [-7. -3.]
+
+ship: 391
+anomalous: 0
+path length: 39
+normal route: [ 3.7 -7.4] -> [ 6.   4.3]
+
+ship: 392
+anomalous: 0
+path length: 48
+normal route: [ 3.7 -7.4] -> [-5.5  0.6]
+
+ship: 393
+anomalous: 0
+path length: 43
+normal route: [ 3.7 -7.4] -> [-7. -3.]
+
+ship: 394
+anomalous: 0
+path length: 43
+normal route: [ 3.7 -7.4] -> [ 6.   4.3]
+
+ship: 395
+anomalous: 0
+path length: 48
+normal route: [ 3.7 -7.4] -> [-7. -3.]
+
+ship: 396
+anomalous: 0
+path length: 48
+normal route: [ 3.7 -7.4] -> [ 6.   4.3]
+
+ship: 397
+anomalous: 0
+path length: 48
+normal route: [ 3.7 -7.4] -> [-7. -3.]
+
+ship: 398
+anomalous: 0
+path length: 51
+normal route: [ 3.7 -7.4] -> [-5.5  0.6]
+
+ship: 399
+anomalous: 0
+path length: 43
+normal route: [ 3.7 -7.4] -> [-5.5  0.6]
+
+ship: 400
+anomalous: 0
+path length: 50
+normal route: [ 3.7 -7.4] -> [ 6.   4.3]
+
+ship: 401
+anomalous: 0
+path length: 50
+normal route: [ 3.7 -7.4] -> [-5.5  0.6]
+
+ship: 402
+anomalous: 0
+path length: 55
+normal route: [ 3.7 -7.4] -> [ 6.   4.3]
+
+ship: 403
+anomalous: 0
+path length: 53
+normal route: [ 3.7 -7.4] -> [-5.5  0.6]
+
+ship: 404
+anomalous: 0
+path length: 51
+normal route: [ 3.7 -7.4] -> [-5.5  0.6]
+
+ship: 405
+anomalous: 0
+path length: 45
+normal route: [ 3.7 -7.4] -> [-7. -3.]
+
+ship: 406
+anomalous: 0
+path length: 51
+normal route: [ 3.7 -7.4] -> [-5.5  0.6]
+
+ship: 407
+anomalous: 0
+path length: 63
+normal route: [ 3.7 -7.4] -> [ 6.   4.3]
+
+ship: 408
+anomalous: 0
+path length: 51
+normal route: [ 3.7 -7.4] -> [ 6.   4.3]
+
+ship: 409
+anomalous: 0
+path length: 52
+normal route: [ 3.7 -7.4] -> [ 6.   4.3]
+
+ship: 410
+anomalous: 0
+path length: 43
+normal route: [ 3.7 -7.4] -> [-7. -3.]
+
+ship: 411
+anomalous: 0
+path length: 51
+normal route: [ 3.7 -7.4] -> [-5.5  0.6]
+
+ship: 412
+anomalous: 0
+path length: 61
+normal route: [ 3.7 -7.4] -> [ 6.   4.3]
+
+ship: 413
+anomalous: 0
+path length: 59
+normal route: [ 3.7 -7.4] -> [-5.5  0.6]
+
+ship: 414
+anomalous: 0
+path length: 50
+normal route: [ 3.7 -7.4] -> [-5.5  0.6]
+
+ship: 415
+anomalous: 0
+path length: 47
+normal route: [ 3.7 -7.4] -> [-5.5  0.6]
+
+ship: 416
+anomalous: 0
+path length: 46
+normal route: [ 3.7 -7.4] -> [ 6.   4.3]
+
+ship: 417
+anomalous: 0
+path length: 48
+normal route: [ 3.7 -7.4] -> [-5.5  0.6]
+
+ship: 418
+anomalous: 0
+path length: 50
+normal route: [ 3.7 -7.4] -> [ 6.   4.3]
+
+ship: 419
+anomalous: 0
+path length: 53
+normal route: [ 3.7 -7.4] -> [ 6.   4.3]
+
+ship: 420
+anomalous: 0
+path length: 47
+normal route: [ 3.7 -7.4] -> [-7. -3.]
+
+ship: 421
+anomalous: 0
+path length: 48
+normal route: [ 3.7 -7.4] -> [ 6.   4.3]
+
+ship: 422
+anomalous: 0
+path length: 50
+normal route: [ 3.7 -7.4] -> [-7. -3.]
+
+ship: 423
+anomalous: 0
+path length: 51
+normal route: [ 3.7 -7.4] -> [ 6.   4.3]
+
+ship: 424
+anomalous: 0
+path length: 53
+normal route: [ 3.7 -7.4] -> [-7. -3.]
+
+ship: 425
+anomalous: 0
+path length: 51
+normal route: [ 3.7 -7.4] -> [ 6.   4.3]
+
+ship: 426
+anomalous: 0
+path length: 55
+normal route: [ 3.7 -7.4] -> [ 6.   4.3]
+
+ship: 427
+anomalous: 0
+path length: 48
+normal route: [ 3.7 -7.4] -> [ 6.   4.3]
+
+ship: 428
+anomalous: 0
+path length: 44
+normal route: [ 3.7 -7.4] -> [-7. -3.]
+
+ship: 429
+anomalous: 0
+path length: 69
+normal route: [ 3.7 -7.4] -> [ 6.   4.3]
+
+ship: 430
+anomalous: 0
+path length: 62
+normal route: [ 3.7 -7.4] -> [-5.5  0.6]
+
+ship: 431
+anomalous: 0
+path length: 49
+normal route: [ 3.7 -7.4] -> [ 6.   4.3]
+
+ship: 432
+anomalous: 0
+path length: 59
+normal route: [ 3.7 -7.4] -> [-5.5  0.6]
+
+ship: 433
+anomalous: 0
+path length: 41
+normal route: [ 3.7 -7.4] -> [-7. -3.]
+
+ship: 434
+anomalous: 0
+path length: 51
+normal route: [ 3.7 -7.4] -> [ 6.   4.3]
+
+ship: 435
+anomalous: 0
+path length: 45
+normal route: [ 3.7 -7.4] -> [-5.5  0.6]
+
+ship: 436
+anomalous: 0
+path length: 46
+normal route: [ 3.7 -7.4] -> [-5.5  0.6]
+
+ship: 437
+anomalous: 0
+path length: 62
+normal route: [ 3.7 -7.4] -> [-5.5  0.6]
+
+ship: 438
+anomalous: 0
+path length: 43
+normal route: [ 3.7 -7.4] -> [-7. -3.]
+
+ship: 439
+anomalous: 0
+path length: 49
+normal route: [ 3.7 -7.4] -> [-5.5  0.6]
+
+ship: 440
+anomalous: 0
+path length: 51
+normal route: [ 3.7 -7.4] -> [-7. -3.]
+
+ship: 441
+anomalous: 0
+path length: 42
+normal route: [ 3.7 -7.4] -> [-7. -3.]
+
+ship: 442
+anomalous: 0
+path length: 43
+normal route: [ 3.7 -7.4] -> [-5.5  0.6]
+
+ship: 443
+anomalous: 0
+path length: 46
+normal route: [ 3.7 -7.4] -> [-5.5  0.6]
+
+ship: 444
+anomalous: 0
+path length: 52
+normal route: [ 3.7 -7.4] -> [-5.5  0.6]
+
+ship: 445
+anomalous: 0
+path length: 45
+normal route: [ 3.7 -7.4] -> [-7. -3.]
+
+ship: 446
+anomalous: 0
+path length: 47
+normal route: [ 3.7 -7.4] -> [ 6.   4.3]
+
+ship: 447
+anomalous: 0
+path length: 55
+normal route: [ 3.7 -7.4] -> [-5.5  0.6]
+
+ship: 448
+anomalous: 0
+path length: 45
+normal route: [ 3.7 -7.4] -> [ 6.   4.3]
+
+ship: 449
+anomalous: 0
+path length: 41
+normal route: [ 3.7 -7.4] -> [ 6.   4.3]
+
+ship: 450
+anomalous: 0
+path length: 45
+normal route: [ 3.7 -7.4] -> [ 6.   4.3]
+
+ship: 451
+anomalous: 0
+path length: 45
+normal route: [ 3.7 -7.4] -> [-7. -3.]
+
+ship: 452
+anomalous: 0
+path length: 39
+normal route: [ 3.7 -7.4] -> [-7. -3.]
+
+ship: 453
+anomalous: 0
+path length: 48
+normal route: [ 3.7 -7.4] -> [-5.5  0.6]
+
+ship: 454
+anomalous: 0
+path length: 44
+normal route: [ 3.7 -7.4] -> [-7. -3.]
+
+ship: 455
+anomalous: 0
+path length: 50
+normal route: [ 3.7 -7.4] -> [ 6.   4.3]
+
+ship: 456
+anomalous: 0
+path length: 50
+normal route: [ 3.7 -7.4] -> [-5.5  0.6]
+
+ship: 457
+anomalous: 0
+path length: 60
+normal route: [ 3.7 -7.4] -> [-5.5  0.6]
+
+ship: 458
+anomalous: 0
+path length: 46
+normal route: [ 3.7 -7.4] -> [-5.5  0.6]
+
+ship: 459
+anomalous: 0
+path length: 47
+normal route: [ 3.7 -7.4] -> [-7. -3.]
+
+ship: 460
+anomalous: 0
+path length: 52
+normal route: [ 3.7 -7.4] -> [-7. -3.]
+
+ship: 461
+anomalous: 0
+path length: 47
+normal route: [ 3.7 -7.4] -> [ 6.   4.3]
+
+ship: 462
+anomalous: 0
+path length: 43
+normal route: [ 3.7 -7.4] -> [-7. -3.]
+
+ship: 463
+anomalous: 0
+path length: 49
+normal route: [ 3.7 -7.4] -> [-7. -3.]
+
+ship: 464
+anomalous: 0
+path length: 59
+normal route: [ 3.7 -7.4] -> [ 6.   4.3]
+
+ship: 465
+anomalous: 0
+path length: 45
+normal route: [ 3.7 -7.4] -> [ 6.   4.3]
+
+ship: 466
+anomalous: 0
+path length: 43
+normal route: [ 3.7 -7.4] -> [-5.5  0.6]
+
+ship: 467
+anomalous: 0
+path length: 46
+normal route: [ 3.7 -7.4] -> [ 6.   4.3]
+
+ship: 468
+anomalous: 0
+path length: 49
+normal route: [ 3.7 -7.4] -> [-5.5  0.6]
+
+ship: 469
+anomalous: 0
+path length: 50
+normal route: [ 3.7 -7.4] -> [-5.5  0.6]
+
+ship: 470
+anomalous: 0
+path length: 49
+normal route: [ 3.7 -7.4] -> [-5.5  0.6]
+
+ship: 471
+anomalous: 0
+path length: 49
+normal route: [ 3.7 -7.4] -> [-5.5  0.6]
+
+ship: 472
+anomalous: 0
+path length: 58
+normal route: [ 3.7 -7.4] -> [-7. -3.]
+
+ship: 473
+anomalous: 0
+path length: 50
+normal route: [ 3.7 -7.4] -> [-5.5  0.6]
+
+ship: 474
+anomalous: 0
+path length: 48
+normal route: [ 3.7 -7.4] -> [ 6.   4.3]
+
+ship: 475
+anomalous: 0
+path length: 51
+normal route: [ 3.7 -7.4] -> [-5.5  0.6]
+
+ship: 476
+anomalous: 0
+path length: 46
+normal route: [ 3.7 -7.4] -> [-7. -3.]
+
+ship: 477
+anomalous: 0
+path length: 46
+normal route: [ 3.7 -7.4] -> [-7. -3.]
+
+ship: 478
+anomalous: 0
+path length: 50
+normal route: [ 3.7 -7.4] -> [-5.5  0.6]
+
+ship: 479
+anomalous: 0
+path length: 51
+normal route: [ 3.7 -7.4] -> [ 6.   4.3]
+
+ship: 480
+anomalous: 0
+path length: 49
+normal route: [ 3.7 -7.4] -> [-7. -3.]
+
+ship: 481
+anomalous: 0
+path length: 59
+normal route: [ 3.7 -7.4] -> [-5.5  0.6]
+
+ship: 482
+anomalous: 0
+path length: 50
+normal route: [ 3.7 -7.4] -> [ 6.   4.3]
+
+ship: 483
+anomalous: 0
+path length: 49
+normal route: [ 3.7 -7.4] -> [-5.5  0.6]
+
+ship: 484
+anomalous: 0
+path length: 49
+normal route: [ 3.7 -7.4] -> [-5.5  0.6]
+
+ship: 485
+anomalous: 0
+path length: 46
+normal route: [ 3.7 -7.4] -> [-7. -3.]
+
+ship: 486
+anomalous: 0
+path length: 48
+normal route: [ 3.7 -7.4] -> [-7. -3.]
+
+ship: 487
+anomalous: 0
+path length: 56
+normal route: [ 3.7 -7.4] -> [-5.5  0.6]
+
+ship: 488
+anomalous: 0
+path length: 51
+normal route: [ 3.7 -7.4] -> [ 6.   4.3]
+
+ship: 489
+anomalous: 0
+path length: 49
+normal route: [ 3.7 -7.4] -> [-7. -3.]
+
+ship: 490
+anomalous: 0
+path length: 46
+normal route: [ 3.7 -7.4] -> [ 6.   4.3]
+
+ship: 491
+anomalous: 0
+path length: 49
+normal route: [ 3.7 -7.4] -> [ 6.   4.3]
+
+ship: 492
+anomalous: 0
+path length: 49
+normal route: [ 3.7 -7.4] -> [ 6.   4.3]
+
+ship: 493
+anomalous: 0
+path length: 47
+normal route: [ 3.7 -7.4] -> [ 6.   4.3]
+
+ship: 494
+anomalous: 0
+path length: 48
+normal route: [ 3.7 -7.4] -> [ 6.   4.3]
+
+ship: 495
+anomalous: 0
+path length: 53
+normal route: [ 3.7 -7.4] -> [ 6.   4.3]
+
+ship: 496
+anomalous: 0
+path length: 49
+normal route: [ 3.7 -7.4] -> [-5.5  0.6]
+
+ship: 497
+anomalous: 0
+path length: 40
+normal route: [ 3.7 -7.4] -> [-7. -3.]
+
+ship: 498
+anomalous: 0
+path length: 42
+normal route: [ 3.7 -7.4] -> [-7. -3.]
+
+ship: 499
+anomalous: 0
+path length: 52
+normal route: [ 3.7 -7.4] -> [ 6.   4.3]
+
